@@ -244,7 +244,7 @@
           "title": "Vue Components",
           "path": "instruction/vue-components/vue-components.md",
           "id": "48b6e815e9724619a312c6eb43b84e88",
-          "state": "stub",
+          "state": "stable",
           "description": "Creating and using Vue components."
         },
         {
