@@ -31,7 +31,7 @@
           "title": "Rendering Strategies: SSR, CSR, and SSG",
           "path": "instruction/rendering-strategies-ssr-csr-and-ssg/rendering-strategies-ssr-csr-and-ssg.md",
           "id": "4bf786a59535400191b97f6fd34108aa",
-          "state": "stub",
+          "state": "stable",
           "description": "Server-side rendering, client-side rendering, and static site generation."
         },
         {
