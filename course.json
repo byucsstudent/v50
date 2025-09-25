@@ -134,7 +134,7 @@
           "title": "Props and State",
           "path": "instruction/props-and-state/props-and-state.md",
           "id": "8d3796f8c8cc47b991cf1bfa4fdd3c68",
-          "state": "stub",
+          "state": "stable",
           "description": "Understanding props and state in React components."
         },
         {
