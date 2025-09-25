@@ -24,7 +24,7 @@
           "title": "Virtual DOM",
           "path": "instruction/virtual-dom/virtual-dom.md",
           "id": "0921f86c498f4e0d8cc0974b0c51ff7f",
-          "state": "stub",
+          "state": "stable",
           "description": "Introduction to the virtual DOM concept and its benefits."
         },
         {
