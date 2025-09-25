@@ -237,7 +237,7 @@
           "title": "Vue.js Introduction and Template Syntax",
           "path": "instruction/vue-js-introduction-and-template-syntax/vue-js-introduction-and-template-syntax.md",
           "id": "69f1479166a5411b9905014c2b79c450",
-          "state": "stub",
+          "state": "stable",
           "description": "Introduction to Vue.js and its template syntax."
         },
         {
