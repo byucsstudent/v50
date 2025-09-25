@@ -110,6 +110,12 @@
           "id": "5c8a565f80654a5684a12261c94e77df",
           "state": "stub",
           "description": "Tools and techniques for monitoring web application performance."
+        },
+        {
+          "title": "Rendering Strategies: SSR, CSR, and SSG",
+          "type": "instruction",
+          "path": "instruction/rendering-strategies-ssr-csr-and-ssg/rendering-strategies-ssr-csr-and-ssg.md",
+          "id": "65fb814dbe89489daf6ee081cc9e9e2e"
         }
       ]
     },
