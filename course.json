@@ -17,7 +17,7 @@
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
-          "state": "stub",
+          "state": "stable",
           "description": "Understanding the DOM tree structure and manipulation."
         },
         {
