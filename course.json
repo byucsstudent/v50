@@ -38,7 +38,7 @@
           "title": "JavaScript Design Patterns",
           "path": "instruction/javascript-design-patterns/javascript-design-patterns.md",
           "id": "5e1ad0efebd94ce7856ea6ec13bb3a74",
-          "state": "stub",
+          "state": "stable",
           "description": "Common JavaScript patterns used in web framework development."
         },
         {
