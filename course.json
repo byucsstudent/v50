@@ -478,7 +478,7 @@
           "title": "DOM Manipulation",
           "path": "instruction/dom-manipulation/dom-manipulation.md",
           "id": "9690870335ed4670848f6a476faf2f0b",
-          "state": "stub",
+          "state": "stable",
           "description": "Implementing DOM manipulation functions."
         },
         {
