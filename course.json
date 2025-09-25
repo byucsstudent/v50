@@ -204,7 +204,7 @@
           "title": "Material UI",
           "path": "instruction/material-ui/material-ui.md",
           "id": "6aa73de75ba6401399a66540b68ca893",
-          "state": "stub",
+          "state": "stable",
           "description": "Using Material UI for pre-built React components."
         },
         {
