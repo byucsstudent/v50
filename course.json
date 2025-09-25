@@ -361,7 +361,7 @@
           "title": "Svelte Components",
           "path": "instruction/svelte-components/svelte-components.md",
           "id": "3d3050fde4ec485386f61ca2ac943c83",
-          "state": "stub",
+          "state": "stable",
           "description": "Creating and using Svelte components."
         },
         {
