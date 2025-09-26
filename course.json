@@ -176,7 +176,7 @@
           "title": "React Router",
           "path": "instruction/react-router/react-router.md",
           "id": "72601171aa4c43f3991a05bb942e2462",
-          "state": "stub",
+          "state": "stable",
           "description": "Implementing routing in React applications."
         },
         {
