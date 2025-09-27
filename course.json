@@ -78,6 +78,7 @@
         },
         {
           "title": "Testing Strategies",
+          "type": "project",
           "path": "instruction/testing-strategies/testing-strategies.md",
           "id": "1898c005407d4957bab3d08c7f34685f",
           "state": "stable",
