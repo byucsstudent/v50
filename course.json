@@ -87,7 +87,7 @@
           "title": "Debugging Techniques",
           "path": "instruction/debugging-techniques/debugging-techniques.md",
           "id": "8957fa78e16f4e82be7c38c9d6ebd212",
-          "state": "stub",
+          "state": "stable",
           "description": "Debugging JavaScript code in the browser and IDE."
         },
         {
