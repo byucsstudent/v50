@@ -42,7 +42,8 @@
           "description": "Common JavaScript patterns used in web framework development."
         },
         {
-          "title": "Module Bundlers: Webpack, Parcel, and Rollup",
+          "title": "Module Bundlers",
+          "type": "instruction",
           "path": "instruction/module-bundlers-webpack-parcel-and-rollup/module-bundlers-webpack-parcel-and-rollup.md",
           "id": "512e430561c443aabc26ef7aef130af5",
           "state": "stable",
