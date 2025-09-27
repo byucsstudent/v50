@@ -45,7 +45,7 @@
           "title": "Module Bundlers: Webpack, Parcel, and Rollup",
           "path": "instruction/module-bundlers-webpack-parcel-and-rollup/module-bundlers-webpack-parcel-and-rollup.md",
           "id": "512e430561c443aabc26ef7aef130af5",
-          "state": "stub",
+          "state": "stable",
           "description": "Overview of module bundlers and their role in web development."
         },
         {
