@@ -7,7 +7,7 @@
       "topics": [
         {
           "title": "Software engineering principles",
-          "type": "instruction",
+          "type": "quiz",
           "path": "instruction/software-engineering-principles/software-engineering-principles.md",
           "id": "ca4f5946ede84f81816c87d9becff2e5",
           "commit": "0e0baccbb042d30e5b227db284dd35a6baf7c256"
