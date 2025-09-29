@@ -14,9 +14,6 @@ Software engineering principles are fundamental guidelines and best practices th
 - [ ] Have no side effects
 ```
 
-
-
-
 ```masteryls
 {"id":"39281", "title":"Decomposition", "type":"multiple-choice", "body":"Decomposition means:" }
 - [x] Breaking a problem into smaller, manageable parts
@@ -24,9 +21,6 @@ Software engineering principles are fundamental guidelines and best practices th
 - [ ] Writing code without comments
 - [ ] Avoiding the use of functions
 ```
-
-
-
 
 **Purpose:** The Single Responsibility Principle states that a class should have only one reason to change. This principle promotes modularity and reduces the likelihood that a change in one part of the system will inadvertently affect other unrelated parts. In essence, a class should be responsible for only one aspect of the software's functionality.
 
