@@ -112,6 +112,12 @@
           "id": "5c8a565f80654a5684a12261c94e77df",
           "state": "stub",
           "description": "Tools and techniques for monitoring web application performance."
+        },
+        {
+          "title": "Software engineering principles",
+          "type": "instruction",
+          "path": "instruction/software-engineering-principles/software-engineering-principles.md",
+          "id": "ca4f5946ede84f81816c87d9becff2e5"
         }
       ]
     },
