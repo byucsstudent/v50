@@ -14,17 +14,17 @@
           "commit": "23a3b874ef645477a3db14c696770560ee1844ec"
         },
         {
-          "title": "Software engineering principles",
-          "type": "instruction",
-          "path": "instruction/software-engineering-principles/software-engineering-principles.md",
-          "id": "ca4f5946ede84f81816c87d9becff2e5"
-        },
-        {
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
           "state": "stable",
           "description": "Understanding the DOM tree structure and manipulation."
+        },
+        {
+          "title": "Software engineering principles",
+          "type": "instruction",
+          "path": "instruction/software-engineering-principles/software-engineering-principles.md",
+          "id": "ca4f5946ede84f81816c87d9becff2e5"
         },
         {
           "title": "Virtual DOM",
