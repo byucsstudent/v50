@@ -185,8 +185,8 @@
           "title": "Redux for State Management",
           "path": "instruction/redux-for-state-management/redux-for-state-management.md",
           "id": "60d07165d1a949db8efd32279e9065ee",
-          "state": "stub",
-          "description": "Using Redux for managing application state in React."
+          "state": "stable",
+          "description": "Using Redux for managing application state in React. This includes examples of common patterns and pitfalls. A careful motivation of what problem is solved with Redux. There is also a discussion about how you would build your own state management system."
         },
         {
           "title": "Context API",
