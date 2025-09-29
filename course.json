@@ -99,6 +99,13 @@
           "id": "ca4f5946ede84f81816c87d9becff2e5"
         },
         {
+          "title": "Performance Monitoring",
+          "path": "instruction/performance-monitoring/performance-monitoring.md",
+          "id": "5c8a565f80654a5684a12261c94e77df",
+          "state": "stub",
+          "description": "Tools and techniques for monitoring web application performance."
+        },
+        {
           "title": "Version Control with Git",
           "path": "instruction/version-control-with-git/version-control-with-git.md",
           "id": "bc725c1821c145799956014406aca257",
@@ -111,13 +118,6 @@
           "id": "567ba00593184601a6303fcd6e901849",
           "state": "stub",
           "description": "Automating the build, test, and deployment process."
-        },
-        {
-          "title": "Performance Monitoring",
-          "path": "instruction/performance-monitoring/performance-monitoring.md",
-          "id": "5c8a565f80654a5684a12261c94e77df",
-          "state": "stub",
-          "description": "Tools and techniques for monitoring web application performance."
         }
       ]
     },
