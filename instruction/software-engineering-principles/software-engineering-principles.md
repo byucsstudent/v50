@@ -4,16 +4,6 @@ Software engineering principles are fundamental guidelines and best practices th
 
 ## Single Responsibility Principle (SRP)
 
-### Comprehension check
-
-```masteryls
-{"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
-- [ ] Do one thing and do it well
-- [x] Have one reason for an actor to use it
-- [ ] Be immutable
-- [ ] Have no side effects
-```
-
 **Purpose:** The Single Responsibility Principle states that a class should have only one reason to change. This principle promotes modularity and reduces the likelihood that a change in one part of the system will inadvertently affect other unrelated parts. In essence, a class should be responsible for only one aspect of the software's functionality.
 
 **Example:**
@@ -88,6 +78,18 @@ class UserRepository {
 *   Over-splitting classes: While important, the goal isn't to create a multitude of tiny classes.  Balance is key.  Classes should be split when their responsibilities are truly distinct and evolve for different reasons.
 *   Ignoring the "reason to change":  The critical aspect is identifying *why* a class might need to be modified. If multiple reasons exist, SRP is likely being violated.
 
+
+### Comprehension check
+
+```masteryls
+{"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
+- [ ] Do one thing and do it well
+- [x] Have one reason for an actor to use it
+- [ ] Be immutable
+- [ ] Have no side effects
+```
+
+
 ## Decomposition
 
 **Purpose:** Decomposition involves breaking down a complex problem or system into smaller, more manageable parts.  This makes the problem easier to understand, design, implement, test, and maintain. Effective decomposition allows engineers to focus on individual components without being overwhelmed by the entire system.
@@ -118,7 +120,7 @@ Each of these modules can then be further decomposed.  For instance, the "Order 
 ### Comprehension check
 
 ```masteryls
-{"id":"39281", "title":"Decomposition", "type":"multiple-choice", "body":"Decomposition means:" }
+{"id":"39281", "type":"multiple-choice", "body":"Decomposition means:" }
 - [x] Breaking a problem into smaller, manageable parts
 - [ ] Combining multiple responsibilities into one module
 - [ ] Writing code without comments
