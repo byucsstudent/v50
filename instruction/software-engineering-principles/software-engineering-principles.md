@@ -4,22 +4,14 @@ Software engineering principles are fundamental guidelines and best practices th
 
 ## Single Responsibility Principle (SRP)
 
-### comprehension check
+### Comprehension check
 
 ```masteryls
-{"id":"39280", "title":"SRP intent", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
+{"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
 - [ ] Do one thing and do it well
 - [x] Have one reason for an actor to use it
 - [ ] Be immutable
 - [ ] Have no side effects
-```
-
-```masteryls
-{"id":"39281", "title":"Decomposition", "type":"multiple-choice", "body":"Decomposition means:" }
-- [x] Breaking a problem into smaller, manageable parts
-- [ ] Combining multiple responsibilities into one module
-- [ ] Writing code without comments
-- [ ] Avoiding the use of functions
 ```
 
 **Purpose:** The Single Responsibility Principle states that a class should have only one reason to change. This principle promotes modularity and reduces the likelihood that a change in one part of the system will inadvertently affect other unrelated parts. In essence, a class should be responsible for only one aspect of the software's functionality.
@@ -122,6 +114,16 @@ Each of these modules can then be further decomposed.  For instance, the "Order 
 *   Creating overly complex decompositions: A decomposition that is too fine-grained can be just as problematic as no decomposition at all. Aim for a balance between simplicity and manageability.
 *   Ignoring dependencies: Ensure that the decomposed components have well-defined interfaces and dependencies.  Poorly managed dependencies can lead to tight coupling and increased complexity.
 *   Lack of clear responsibility per component: Each component should have a clearly defined function.
+
+### Comprehension check
+
+```masteryls
+{"id":"39281", "title":"Decomposition", "type":"multiple-choice", "body":"Decomposition means:" }
+- [x] Breaking a problem into smaller, manageable parts
+- [ ] Combining multiple responsibilities into one module
+- [ ] Writing code without comments
+- [ ] Avoiding the use of functions
+```
 
 ## Abstraction
 
