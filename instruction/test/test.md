@@ -16,11 +16,11 @@ Here's a simple diagram:
 
 ```mermaid
 graph LR
-    A[Complex Problem] --\u003e B(Component 1)
-    A --\u003e C(Component 2)
-    A --\u003e D(Component 3)
-    B --\u003e E(Sub-component 1)
-    B --\u003e F(Sub-component 2)
+    A[Complex Problem] --> B(Component 1)
+    A --> C(Component 2)
+    A --> D(Component 3)
+    B --> E(Sub-component 1)
+    B --> F(Sub-component 2)
 ```
 
 Think of it like this: you start with a big, scary problem (A) and break it down into smaller, more manageable pieces (B, C, D), and then potentially break those down even further (E, F).  Just be sure each piece has a clear job!
