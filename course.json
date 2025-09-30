@@ -124,7 +124,8 @@
           "title": "test",
           "type": "instruction",
           "path": "instruction/test/test.md",
-          "id": "58a9fbddb5464a7a8a42efd95e284420"
+          "id": "58a9fbddb5464a7a8a42efd95e284420",
+          "commit": "ce17ca104487ecb321e7212520ff3e9901a38a8b"
         }
       ]
     },
