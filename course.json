@@ -119,6 +119,12 @@
           "id": "567ba00593184601a6303fcd6e901849",
           "state": "stub",
           "description": "Automating the build, test, and deployment process."
+        },
+        {
+          "title": "test",
+          "type": "instruction",
+          "path": "instruction/test/test.md",
+          "id": "58a9fbddb5464a7a8a42efd95e284420"
         }
       ]
     },
