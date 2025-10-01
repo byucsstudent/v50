@@ -10,7 +10,7 @@ Software engineering principles are fundamental guidelines and best practices th
 ```masteryls
 {"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
 - [ ] Do one thing and do it well
-- [x] Have one reason for an actor to use it
+- [x] Have have only one reason to change
 - [ ] Be immutable
 - [ ] Have no side effects
 ```
