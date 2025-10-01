@@ -4,6 +4,17 @@ Software engineering principles are fundamental guidelines and best practices th
 
 ## Single Responsibility Principle (SRP)
 
+
+### Comprehension check
+
+```masteryls
+{"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
+- [ ] Do one thing and do it well
+- [x] Have one reason for an actor to use it
+- [ ] Be immutable
+- [ ] Have no side effects
+```
+
 **Purpose:** The Single Responsibility Principle states that a class should have only one reason to change. This principle promotes modularity and reduces the likelihood that a change in one part of the system will inadvertently affect other unrelated parts. In essence, a class should be responsible for only one aspect of the software's functionality.
 
 **Example:**
@@ -79,15 +90,6 @@ class UserRepository {
 *   Ignoring the "reason to change":  The critical aspect is identifying *why* a class might need to be modified. If multiple reasons exist, SRP is likely being violated.
 
 
-### Comprehension check
-
-```masteryls
-{"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
-- [ ] Do one thing and do it well
-- [x] Have one reason for an actor to use it
-- [ ] Be immutable
-- [ ] Have no side effects
-```
 
 
 ## Decomposition
