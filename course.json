@@ -118,7 +118,8 @@
           "title": "Virtual DOM",
           "type": "instruction",
           "path": "instruction/virtual-dom/virtual-dom.md",
-          "id": "28d348a4e9f74c758c09f7fd4a46ebf0"
+          "id": "28d348a4e9f74c758c09f7fd4a46ebf0",
+          "commit": "ac640acff40e2f5af671f80f99a4c6e440745d4a"
         }
       ]
     },
