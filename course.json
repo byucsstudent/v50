@@ -28,13 +28,6 @@
           "description": "Understanding the DOM tree structure and manipulation."
         },
         {
-          "title": "Virtual DOM",
-          "path": "instruction/virtual-dom/virtual-dom.md",
-          "id": "0921f86c498f4e0d8cc0974b0c51ff7f",
-          "state": "stable",
-          "description": "Introduction to the virtual DOM concept and its benefits."
-        },
-        {
           "title": "Rendering Strategies: SSR, CSR, and SSG",
           "path": "instruction/rendering-strategies-ssr-csr-and-ssg/rendering-strategies-ssr-csr-and-ssg.md",
           "id": "4bf786a59535400191b97f6fd34108aa",
