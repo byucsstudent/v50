@@ -237,6 +237,12 @@
           "id": "2e36ee3e25834333b187924d65b299d3",
           "state": "stable",
           "description": "Introduction to the Next.js framework for server-side rendering and static site generation."
+        },
+        {
+          "title": "cow",
+          "type": "instruction",
+          "path": "instruction/cow/cow.md",
+          "id": "6415a059d5524f5c8727599b69cb5a5a"
         }
       ]
     },
