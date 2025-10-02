@@ -1,5 +1,5 @@
 # Virtual DOM
-
+test
 The Virtual DOM is a programming concept where an in-memory representation of a user interface (UI) is kept in memory and synchronized with the "real" DOM. This in-memory representation acts as a lightweight copy of the actual DOM, enabling efficient updates and improved performance, especially in complex web applications with frequent UI changes. Instead of directly manipulating the real DOM, changes are first applied to the Virtual DOM. Then, a diffing algorithm compares the Virtual DOM with its previous state to identify the minimal set of changes needed to update the actual DOM. Finally, these changes are applied in a batch, minimizing the number of expensive DOM manipulations.
 
 ### The Problem the Virtual DOM Solves
