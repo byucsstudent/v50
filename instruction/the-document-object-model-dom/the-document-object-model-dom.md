@@ -3,7 +3,7 @@
 The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as a tree structure. Each node in the tree represents a part of the document such as an element, attribute, or text. Web browsers use the DOM to interpret HTML and CSS code into a visual representation of a website. It is a crucial concept for any web developer to understand.
 
 
-### Comprehension check
+## Comprehension check
 
 ```masteryls
 {"id":"39280", "type":"multiple-choice", "body":"What is the primary purpose of the Document Object Model (DOM) in web development?" }
