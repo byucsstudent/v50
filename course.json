@@ -113,6 +113,12 @@
           "id": "567ba00593184601a6303fcd6e901849",
           "state": "stub",
           "description": "Automating the build, test, and deployment process."
+        },
+        {
+          "title": "Virtual DOM",
+          "type": "instruction",
+          "path": "instruction/virtual-dom/virtual-dom.md",
+          "id": "6b053e0780564ad684a5152650f5621d"
         }
       ]
     },
