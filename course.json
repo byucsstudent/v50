@@ -36,6 +36,13 @@
           "description": "Server-side rendering, client-side rendering, and static site generation."
         },
         {
+          "title": "Security Best Practices",
+          "path": "instruction/security-best-practices/security-best-practices.md",
+          "id": "5f8cc7b9ea3e4ec8a73657d8fc54241e",
+          "state": "stub",
+          "description": "Common security vulnerabilities and how to prevent them."
+        },
+        {
           "title": "JavaScript Design Patterns",
           "path": "instruction/javascript-design-patterns/javascript-design-patterns.md",
           "id": "5e1ad0efebd94ce7856ea6ec13bb3a74",
@@ -70,13 +77,6 @@
           "id": "ca690d6209cc4cd4bf62300f8d1d102e",
           "state": "stub",
           "description": "Building web applications with accessibility in mind."
-        },
-        {
-          "title": "Security Best Practices",
-          "path": "instruction/security-best-practices/security-best-practices.md",
-          "id": "5f8cc7b9ea3e4ec8a73657d8fc54241e",
-          "state": "stub",
-          "description": "Common security vulnerabilities and how to prevent them."
         },
         {
           "title": "Testing Strategies",
