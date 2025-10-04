@@ -39,8 +39,8 @@
           "title": "Security Best Practices",
           "path": "instruction/security-best-practices/security-best-practices.md",
           "id": "5f8cc7b9ea3e4ec8a73657d8fc54241e",
-          "state": "stub",
-          "description": "Common security vulnerabilities and how to prevent them."
+          "state": "stable",
+          "description": "Common security vulnerabilities and how to prevent them. Give examples of major exploits and well known hackers."
         },
         {
           "title": "JavaScript Design Patterns",
