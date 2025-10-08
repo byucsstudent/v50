@@ -11,6 +11,11 @@ Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae
 const x = 1;
 if (x) {
   console.log(x);
+  if (y) {
+    if (z) {
+      console.log(z);
+    }
+  }
 }
 ```
 
