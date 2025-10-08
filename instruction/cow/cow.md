@@ -4,6 +4,13 @@ Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae
 
 ## Anatomy and Physiology
 
+```js
+const x = 1;
+if (x) {
+  console.log(x);
+}
+```
+
 Cows possess a complex digestive system designed to process large quantities of plant matter.  Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
 
 Cows have a unique dental structure adapted for grazing.  They lack upper incisors, instead relying on a dental pad to tear off vegetation with their lower incisors. Their molars are broad and flat, designed for grinding tough plant material.
