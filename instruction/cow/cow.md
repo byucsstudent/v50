@@ -1,6 +1,6 @@
 # df
 wwwwwww
-Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae* family and the *Bos* genus.  They are a vital part of agriculture worldwide, providing us with milk, meat (beef and veal), leather, and other products. Understanding their biology, behavior, and role in human society is essential for anyone involved in agriculture, food production, or simply interested in the world around them.
+- Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae* family and the *Bos* genus.  They are a vital part of agriculture worldwide, providing us with milk, meat (beef and veal), leather, and other products. Understanding their biology, behavior, and role in human society is essential for anyone involved in agriculture, food production, or simply interested in the world around them.
 x !== y
 ## Anatomy and Physiology
 
@@ -18,7 +18,7 @@ if (x) {
 }
 ```
 
-             Cows possess a complex digestive system designed to process large quantities of plant matter.  Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
+1.  Cows possess a complex digestive system designed to process large quantities of plant matter.  Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
 
 Cows have a unique dental structure adapted for grazing.  They lack upper incisors, instead relying on a dental pad to tear off vegetation with their lower incisors. Their molars are broad and flat, designed for grinding tough plant material.
 
