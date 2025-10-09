@@ -379,7 +379,8 @@
           "path": "instruction/svelte-components/svelte-components.md",
           "id": "3d3050fde4ec485386f61ca2ac943c83",
           "state": "stable",
-          "description": "Creating and using Svelte components."
+          "description": "Creating and using Svelte components.",
+          "commit": "2198c3b0328f19d6b94eac08c080725fce25d3c2"
         },
         {
           "title": "Props and Events",
