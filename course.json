@@ -380,7 +380,7 @@
           "id": "3d3050fde4ec485386f61ca2ac943c83",
           "state": "stable",
           "description": "Creating and using Svelte components.",
-          "commit": "93bd558cc4ac72a2c74aed95cb499238d046f17b"
+          "commit": "4a5a5b083b1a8714862b691e34b8ed779fd4749d"
         },
         {
           "title": "Props and Events",
