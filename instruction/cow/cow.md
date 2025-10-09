@@ -4,6 +4,14 @@ wwww
 x !== y
 ## Anatomy and Physiology
 
+```masteryls
+{"id":"3997b234-0cbd-421c-bdfa-b1e91b94a1f4", "title":"Multiple choice", "type":"multiple-choice", "body":"Simple **multiple choice** question" }
+- [ ] This is **not** the right answer
+- [x] This is _the_ right answer
+- [ ] This one has a [link](https://cow.com)
+- [ ] This one has an image ![Stock Photo](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80)
+```
+
 ```js
 //..............
 //wwwwwww
