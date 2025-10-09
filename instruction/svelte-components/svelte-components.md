@@ -2,6 +2,9 @@
 
 Svelte is a component-based framework for building user interfaces. Components are the building blocks of any Svelte application, encapsulating HTML, CSS, and JavaScript into reusable units. Understanding how to create, use, and manage components is fundamental to mastering Svelte. This module will guide you through the process of creating and utilizing Svelte components effectively.
 
+lots of new stuff
+
+
 Svelte components are written in `.svelte` files. These files contain markup (HTML), styling (CSS), and behavior (JavaScript) all within a single file. The Svelte compiler then processes these files, transforming them into highly efficient JavaScript that updates the DOM when your application's state changes.
 
 ## Creating Your First Component
