@@ -1,4 +1,4 @@
-# Svelte Components 1e+
+# Svelte Components a5+
 
 Svelte is a component-based framework for building user interfaces. Components are the building blocks of any Svelte application, encapsulating HTML, CSS, and JavaScript into reusable units. Understanding how to create, use, and manage components is fundamental to mastering Svelte. This module will guide you through the process of creating and utilizing Svelte components effectively.
 
