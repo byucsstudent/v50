@@ -21,10 +21,11 @@
           "commit": "23a3b874ef645477a3db14c696770560ee1844ec"
         },
         {
-          "title": "cow",
+          "title": "Cows",
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "6415a059d5524f5c8727599b69cb5a5a",
+          "description":"In introduction to cow history, use, and anatomy",
           "commit": "cae1ee6211005ad806caad7fba9501396c764057"
         },
         {
