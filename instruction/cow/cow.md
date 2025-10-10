@@ -2,6 +2,16 @@
 
 Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae* family and the *Bos* genus.  They are a vital part of agriculture worldwide, providing us with milk, meat (beef and veal), leather, and other products. Understanding their biology, behavior, and role in human society is essential for anyone involved in agriculture, food production, or simply interested in the world around them.
 
+
+```masteryls
+{"id":"69050fe2-9e9a-45f4-9f79-8361e6b6cbde", "title":"Latin Name for Cows", "type":"multiple-choice", "body":"What is the scientific (Latin) name for domestic cattle (cows)?" }
+- [ ] *Bos taurus indicus*
+- [ ] *Sus scrofa domesticus*
+- [x] *Bos taurus*
+- [ ] *Ovis aries*
+```
+
+
 ## Anatomy and Physiology
 
 ```masteryls
