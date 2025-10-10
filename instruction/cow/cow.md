@@ -5,7 +5,7 @@ Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae
 
 ![alt text](https://images.unsplash.com/photo-1545407263-7ff5aa2ad921?auto=format&fit=crop&w=400&q=80)
 
-![5cs](5cs-16x9.png)
+![5cs](instruction/cow/5cs-16x9.png)
 
 Cattle hair, while seemingly simple, plays a vital role in a cow's thermoregulation and protection. Unlike human hair, cow hair is generally coarser and denser, providing insulation against both cold and heat. The coat's density and length can vary significantly between breeds, reflecting adaptations to different climates. For example, breeds originating in colder regions, like the Scottish Highland, possess long, shaggy coats for superior insulation, while breeds from warmer climates have shorter, sleeker hair. Furthermore, the hair traps air, creating an insulating layer that helps maintain a stable body temperature. Regular grooming and shedding also contribute to coat health, removing dead hair and preventing matting, which can hinder the coat's insulating properties and potentially harbor parasites.
 
