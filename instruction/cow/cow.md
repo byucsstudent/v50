@@ -12,6 +12,13 @@ Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae
 ```
 
 
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+
+![alt text](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=100&q=80)
+
 ## Anatomy and Physiology
 
 ```masteryls
@@ -62,7 +69,7 @@ if (x) {
 ```
 ![alt text](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=100&q=80)
 
-1Cows possess a system large quantities of plant matter. Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
+Cows possess a system large quantities of plant matter. Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
 
 Cows have a unique dental structure adapted for grazing.  They lack upper incisors, instead relying on a dental pad to tear off vegetation with their lower incisors. Their molars are broad and flat, designed for grinding tough plant material.
 
