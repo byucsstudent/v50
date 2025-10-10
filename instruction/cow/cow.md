@@ -10,7 +10,13 @@ x !== y
 - [ ] Secretion of enzymes for protein digestion.
 - [ ] Storage of bile produced by the liver.
 ```
-
+```masteryls
+{"id":"c95ad699-b755-45ea-85ad-7654c2289fed", "title":"Hormone Responsible for Milk Production", "type":"multiple-choice", "body":"Which hormone is primarily responsible for stimulating milk production in cows after calving?" }
+- [ ] Estrogen
+- [x] Prolactin
+- [ ] Insulin
+- [ ] Growth Hormone (GH)
+```
 ```masteryls
 {"id":"3997b234-0cbd-421c-bdfa-b1e91b94a1f4", "title":"Multiple choice", "type":"multiple-choice", "body":"Simple **multiple choice** question" }
 - [ ] This is **not** the right answer
