@@ -1,3 +1,17 @@
+```masteryls
+{"id":"a4751e46-26ef-43c5-8917-332bac7ea62f", "title":"Pre-Milking Preparation", "type":"multiple-choice", "body":"Which of the following is the MOST important step to perform *before* attaching the milking unit to a cow?"}
+- [ ] Applying a post-dip teat sealant to prevent bacterial entry *after* milking.
+- [ ] Administering a preventative antibiotic injection to the cow.
+- [x] Forestripping each teat and sanitizing the teats with a pre-dip solution.
+- [ ] Ensuring the milking machine vacuum is set to the highest possible setting for faster milk flow.
+```
+```masteryls
+{"id":"8f86c2de-9524-49dc-97c8-7470657d8393", "title":"Proper Milking Technique", "type":"multiple-choice", "body":"Which of the following is the MOST important aspect of proper milking technique?" }
+- [ ] Milking as quickly as possible to minimize the cow's stress.
+- [x] Ensuring complete and gentle milk removal to prevent mastitis and maintain udder health.
+- [ ] Using only the thumb and forefinger to apply maximum pressure to the teat.
+- [ ] Maintaining a consistent milking schedule, even if the cow is showing signs of discomfort.
+```
 # Cows
 
 Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae* family and the *Bos* genus.  They are a vital part of agriculture worldwide, providing us with milk, meat (beef and veal), leather, and other products. Understanding their biology, behavior, and role in human society is essential for anyone involved in agriculture, food production, or simply interested in the world around them.
