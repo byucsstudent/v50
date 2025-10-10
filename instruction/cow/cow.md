@@ -1,8 +1,15 @@
-# df
-wwww
-- Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae* family and the *Bos* genus.  They are a vital part of agriculture worldwide, providing us with milk, meat (beef and veal), leather, and other products. Understanding their biology, behavior, and role in human society is essential for anyone involved in agriculture, food production, or simply interested in the world around them.
+# Cows
+
+Cows, also known as cattle, are domesticated ungulates belonging to the *Bovidae* family and the *Bos* genus.  They are a vital part of agriculture worldwide, providing us with milk, meat (beef and veal), leather, and other products. Understanding their biology, behavior, and role in human society is essential for anyone involved in agriculture, food production, or simply interested in the world around them.
 x !== y
 ## Anatomy and Physiology
+```masteryls
+{"id":"bb59e810-288a-4fef-a84d-9e1ce4fdea53", "title":"Ruminant Digestion", "type":"multiple-choice", "body":"Which of the following is the primary function of the rumen in a cow's digestive system?" }
+- [ ] Absorption of nutrients into the bloodstream.
+- [x] Microbial fermentation of plant material.
+- [ ] Secretion of enzymes for protein digestion.
+- [ ] Storage of bile produced by the liver.
+```
 
 ```masteryls
 {"id":"3997b234-0cbd-421c-bdfa-b1e91b94a1f4", "title":"Multiple choice", "type":"multiple-choice", "body":"Simple **multiple choice** question" }
