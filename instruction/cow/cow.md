@@ -1,10 +1,12 @@
 ```masteryls
-{"id":"a4751e46-26ef-43c5-8917-332bac7ea62f", "title":"Pre-Milking Preparation", "type":"multiple-choice", "body":"Which of the following is the MOST important step to perform *before* attaching the milking unit to a cow?"}
-- [ ] Applying a post-dip teat sealant to prevent bacterial entry *after* milking.
-- [ ] Administering a preventative antibiotic injection to the cow.
-- [x] Forestripping each teat and sanitizing the teats with a pre-dip solution.
-- [ ] Ensuring the milking machine vacuum is set to the highest possible setting for faster milk flow.
+{"id":"007fff6e-a001-4ba2-a04d-121bd2667d91", "title":"Unsafe Cow Feed", "type":"multiple-choice", "body":"Which of the following should a cow **never** be fed due to the risk of disease transmission or toxicity?" }
+- [ ] High-quality silage
+- [ ] Fresh pasture grasses
+- [x] Meat and bone meal derived from ruminants
+- [ ] Properly formulated grain concentrates
 ```
+
+
 ```masteryls
 {"id":"8f86c2de-9524-49dc-97c8-7470657d8393", "title":"Proper Milking Technique", "type":"multiple-choice", "body":"Which of the following is the MOST important aspect of proper milking technique?" }
 - [ ] Milking as quickly as possible to minimize the cow's stress.
