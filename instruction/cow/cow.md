@@ -50,6 +50,13 @@ Cows, also known as domestic cattle, are fascinating animals with a rich history
 
 ## Anatomy and Physiology
 
+Cows possess a system large quantities of plant matter. Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
+
+Cows have a unique dental structure adapted for grazing.  They lack upper incisors, instead relying on a dental pad to tear off vegetation with their lower incisors. Their molars are broad and flat, designed for grinding tough plant material.
+
+Their skeletal structure is robust, supporting their large size and weight.  The hooves, made of keratin, are cloven (split into two parts) and provide traction on various terrains. The udder, present in females, is a specialized mammary gland responsible for milk production. The size and shape of the udder vary depending on the breed and stage of lactation.
+
+
 ```masteryls
 {"id":"007fff6e-a001-4ba2-a04d-121bd2667d91", "title":"Unsafe Cow Feed", "type":"multiple-choice", "body":"Which of the following should a cow **never** be fed due to the risk of disease transmission or toxicity?" }
 - [ ] High-quality silage
@@ -83,26 +90,6 @@ Cows, also known as domestic cattle, are fascinating animals with a rich history
 - [ ] Growth Hormone (GH)
 ```
 
-```js
-//..............
-//wwwwwww
-const x === 1;
-if (x) {
-  console.log(x);
-  if (y) {
-    if (z) {
-      console.log(z);
-    }
-  }
-}
-```
-![alt text](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=100&q=80)
-
-Cows possess a system large quantities of plant matter. Their four-compartment stomach, consisting of the rumen, reticulum, omasum, and abomasum, allows them to efficiently extract nutrients from grasses and other forages. The rumen, the largest compartment, is a fermentation vat where bacteria break down cellulose. This symbiotic relationship is crucial for the cow's survival, as they cannot digest cellulose on their own.
-
-Cows have a unique dental structure adapted for grazing.  They lack upper incisors, instead relying on a dental pad to tear off vegetation with their lower incisors. Their molars are broad and flat, designed for grinding tough plant material.
-
-Their skeletal structure is robust, supporting their large size and weight.  The hooves, made of keratin, are cloven (split into two parts) and provide traction on various terrains. The udder, present in females, is a specialized mammary gland responsible for milk production. The size and shape of the udder vary depending on the breed and stage of lactation.
 
 ## Breeds of Cattle
 
