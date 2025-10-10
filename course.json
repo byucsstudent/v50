@@ -26,7 +26,7 @@
           "path": "instruction/cow/cow.md",
           "id": "6415a059d5524f5c8727599b69cb5a5a",
           "description": "In introduction to cow history, use, and anatomy",
-          "commit": "106082e2e013f1cc0c887419fefd2857a4f5a81b"
+          "commit": "953882fc572e0f19ad90a2c0c8f6c7ed145df553"
         },
         {
           "title": "The Document Object Model (DOM)",
