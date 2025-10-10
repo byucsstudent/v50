@@ -48,13 +48,6 @@ Cows, also known as domestic cattle, are fascinating animals with a rich history
 **Note:**  This table provides a general overview. Individual animals within a breed can vary in their characteristics. Further research into specific breeds is encouraged!
 
 
-
-
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-
 ## Anatomy and Physiology
 
 ```masteryls
