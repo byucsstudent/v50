@@ -21,6 +21,13 @@
           "commit": "23a3b874ef645477a3db14c696770560ee1844ec"
         },
         {
+          "title": "cow",
+          "type": "instruction",
+          "path": "instruction/cow/cow.md",
+          "id": "6415a059d5524f5c8727599b69cb5a5a",
+          "commit": "cae1ee6211005ad806caad7fba9501396c764057"
+        },
+        {
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
@@ -237,13 +244,6 @@
           "id": "2e36ee3e25834333b187924d65b299d3",
           "state": "stable",
           "description": "Introduction to the Next.js framework for server-side rendering and static site generation."
-        },
-        {
-          "title": "cow",
-          "type": "instruction",
-          "path": "instruction/cow/cow.md",
-          "id": "6415a059d5524f5c8727599b69cb5a5a",
-          "commit": "cae1ee6211005ad806caad7fba9501396c764057"
         }
       ]
     },
