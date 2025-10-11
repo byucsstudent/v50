@@ -1,1 +1,1 @@
-![instruction/links/favicon-32x32.png](instruction/links/favicon-32x32.png)
+![favicon-32x32.png](favicon-32x32.png)
