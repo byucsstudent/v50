@@ -6,7 +6,7 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 ## Comprehension check
 
 ```masteryls
-{"id":"39280", "type":"multiple-choice", "body":"What is the primary purpose of the Document Object Model (DOM) in web development?" }
+{"id":"700cc897-10c7-4c37-bc2d-d38f1304580d", "type":"multiple-choice", "body":"What is the primary purpose of the Document Object Model (DOM) in web development?" }
 - [ ] To define the styling rules for HTML elements
 - [x] To represent a structured, programmatic interface to a webpage’s content
 - [ ] To execute server-side code for rendering HTML
