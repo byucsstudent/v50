@@ -25,7 +25,7 @@
           "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "6415a059d5524f5c8727599b69cb5a5a",
-          "commit": "7ae9b464b1b32e8119e01d89844fe579d74276b2"
+          "commit": "998ab40de0b12b5daa1c9a94890876bf0508187f"
         },
         {
           "title": "The Document Object Model (DOM)",
