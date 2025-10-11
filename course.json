@@ -33,7 +33,7 @@
           "id": "80eb8822e3584e7195e8b63b80f245bd",
           "state": "stable",
           "description": "Understanding the DOM tree structure and manipulation.",
-          "commit": "1bd53e1a8f94e368d7299779811032f157bab1c4"
+          "commit": "65a01871702e086eac06e114af2f1be952c2f223"
         },
         {
           "title": "Rendering Strategies: SSR, CSR, and SSG",
