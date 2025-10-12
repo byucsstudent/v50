@@ -258,7 +258,8 @@
           "type": "instruction",
           "path": "instruction/sandstone-arches/sandstone-arches.md",
           "id": "fa04d174fbd24058be8685d775a35ac0",
-          "description": "How do they form and everything sandstone"
+          "description": "How do they form and everything sandstone",
+          "commit": "dcea21a1cf1372ff6814da23641e6d5f735dddfb"
         }
       ]
     },
