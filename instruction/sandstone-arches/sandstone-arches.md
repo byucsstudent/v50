@@ -4,6 +4,14 @@ Sandstone arches are breathtaking geological formations sculpted by the relentle
 
 ## Understanding Sandstone
 
+```masteryls
+{"id":"e9d0b6c7-b73d-465c-acad-f707448e9f2e", "title":"Arch Formation", "type":"multiple-choice", "body":"Which of the following is the MOST significant factor in the formation of natural arches in sandstone?" }
+- [ ] Uniform weathering across a large, flat expanse of sandstone.
+- [x] Differential weathering and erosion along fractures, joints, and bedding planes within the sandstone.
+- [ ] Rapid deposition of sandstone layers during a single, large flooding event.
+- [ ] Intense volcanic activity that melts and reshapes the sandstone.
+```
+
 Sandstone is a sedimentary rock composed primarily of sand-sized mineral particles or rock fragments. These grains, often quartz or feldspar, are cemented together by various minerals such as silica, calcium carbonate, or iron oxides. The properties of sandstone, including its color, hardness, and porosity, are determined by the composition, size, and arrangement of these grains, as well as the type and amount of cement.
 
 The color of sandstone is particularly striking and varies widely depending on the cementing agent. Iron oxides, for instance, can impart vibrant red, orange, and brown hues, while silica cement typically results in a lighter, often white or gray, appearance. The famous red rock landscapes of the American Southwest are a prime example of iron-oxide-rich sandstone.
