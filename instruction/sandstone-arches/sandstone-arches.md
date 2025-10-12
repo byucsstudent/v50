@@ -41,7 +41,7 @@ Understanding these classifications allows geologists to interpret the history o
 
 ```mermaid
 graph LR
-    A[Quartz (Q)] --> B(Feldspar (F));
+    A[Quartz (Q)] --> B;
     A --> C(Lithics (L));
     B --> C;
     style A fill:#f9f,stroke:#333,stroke-width:2px
@@ -57,6 +57,33 @@ graph LR
 - [x] Arkose
 - [ ] Litharenite
 - [ ] All sandstones are equally likely
+```
+
+
+## Sandstone Climbing: Friction, Features, and Fragility
+
+Sandstone, a sedimentary rock composed primarily of sand-sized grains of mineral, rock, or organic material, is a popular medium for rock climbing. Its formation process directly influences the types of climbing features found and the inherent challenges climbers face. Understanding sandstone's origins is crucial for safe and responsible climbing.
+
+Sandstone forms through the accumulation and cementation of sand grains. These grains are typically quartz or feldspar, but can include other minerals depending on the source rock. The *cementing agent* is key. Common cements include silica (SiO2), calcium carbonate (CaCO3), and iron oxides (like hematite - Fe2O3). Silica cement creates the strongest sandstone, while calcium carbonate is more soluble and iron oxides often make the rock more brittle. This cementation process determines the sandstone's strength, porosity, and permeability, all of which directly affect its climbability.
+
+The types of climbing features present on sandstone are largely dictated by weathering and erosion patterns acting on the layered sedimentary structure. Common features include:
+
+*   **Pockets:** Holes formed by differential weathering of weaker cemented areas or the removal of concretions.
+*   **Crimpers:** Small, sharp edges formed by resistant layers of sandstone.
+*   **Slopers:** Smooth, rounded features that require precise footwork and body positioning to maintain friction.
+*   **Cracks:** Fractures formed by tectonic activity or weathering, which can provide excellent handholds and placements for protection.
+*   **Aretes:** Sharp, exposed ridges formed by erosion on either side.
+
+However, sandstone also presents unique challenges. Its relatively low compressive strength compared to granite means it's more susceptible to breakage, especially when wet. Saturation weakens the cementing agents, making holds more likely to crumble. Climbing on wet sandstone is generally discouraged to preserve the rock and prevent dangerous falls. Furthermore, the abrasive nature of sandstone can quickly wear down climbing shoes and gear.
+
+Climbers on sandstone should be aware of the "leave no trace" principles. This includes using established trails, avoiding climbing after rain, cleaning tick marks (chalk marks used to indicate holds), and being mindful of fragile desert varnish (a dark coating on rock surfaces). Responsible climbing practices help protect this valuable resource for future generations.
+
+```masteryls
+{"id":"sandstone-1", "title":"Which cementing agent generally creates the strongest sandstone?", "type":"multiple-choice", "body":"Which of the following cementing agents typically results in the strongest sandstone formation?" }
+- [ ] Iron Oxides
+- [x] Silica
+- [ ] Calcium Carbonate
+- [ ] Organic Material
 ```
 
 
