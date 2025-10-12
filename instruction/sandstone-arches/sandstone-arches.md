@@ -18,6 +18,48 @@ The color of sandstone is particularly striking and varies widely depending on t
 
 Sandstone's porosity, the amount of open space between grains, influences its permeability, which is the ability of fluids to flow through it. High porosity and permeability allow water to infiltrate the rock, facilitating chemical weathering processes.
 
+
+## Sandstone Classification: A Grain-by-Grain Look
+
+Sandstones are primarily classified based on their composition, specifically the types and proportions of framework grains, the nature of the matrix, and the type of cement that binds everything together. This classification helps geologists understand the source area, transport history, and depositional environment of the sandstone. We will focus on the key aspects that differentiate the major sandstone types: quartz arenites, arkoses, and litharenites.
+
+Quartz arenites are the "purest" form of sandstone, comprised of at least 90% quartz grains. These grains are typically well-rounded and well-sorted, indicating a long transport distance and significant weathering that removed less resistant minerals. Quartz arenites often form in stable cratonic environments or along mature coastlines where sediments have been extensively reworked. The cement in quartz arenites is often silica, further contributing to their durability.
+
+Arkoses, on the other hand, are characterized by a significant proportion of feldspar grains (at least 25%). Feldspar is less stable than quartz and weathers more readily. The presence of abundant feldspar suggests rapid erosion and deposition from a nearby source area, such as a granitic mountain range. Arkoses are often poorly sorted and may contain angular grains, further indicating limited transport and weathering. The matrix in arkoses is often clay-rich due to the weathering of feldspars.
+
+Litharenites are dominated by rock fragments, also known as lithic fragments. These fragments can include a wide variety of rock types, such as volcanic rocks, sedimentary rocks, and metamorphic rocks. The composition of the lithic fragments provides clues about the source area. For example, a litharenite containing abundant volcanic rock fragments might indicate a volcanic arc as the source. Litharenites are typically less mature than quartz arenites and can be moderately to poorly sorted. The matrix composition is variable, depending on the type of rock fragments present.
+
+Here's a table summarizing the key differences:
+
+| Sandstone Type | Framework Grains (Dominant) | Maturity (Sorting & Roundness) | Source Area                               | Depositional Environment                      |
+|-----------------|------------------------------|-----------------------------------|------------------------------------------|---------------------------------------------|
+| Quartz Arenite  | Quartz ( > 90%)             | High (Well-sorted, Well-rounded)    | Stable craton, Mature coastline            | Beaches, Dunes                               |
+| Arkose          | Quartz & Feldspar ( > 25% Feldspar)| Low (Poorly sorted, Angular)       | Nearby granitic mountain range            | Alluvial fans, Fluvial systems near mountains |
+| Litharenite     | Rock Fragments               | Moderate to Low                    | Variable, depends on rock fragment type | Variable, often tectonically active areas   |
+
+Understanding these classifications allows geologists to interpret the history of a sedimentary basin and reconstruct past environments. The relative proportions of quartz, feldspar, and lithic fragments are visually represented in a QFL diagram, a ternary diagram that plots the percentages of these three components.
+
+```mermaid
+graph LR
+    A[Quartz (Q)] --> B(Feldspar (F));
+    A --> C(Lithics (L));
+    B --> C;
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#ccf,stroke:#333,stroke-width:2px
+    style C fill:#ffc,stroke:#333,stroke-width:2px
+    subgraph QFL Diagram
+    end
+```
+
+```masteryls
+{"id":"sandstone-type-1", "title":"Which of the following sandstones is most likely to have formed from sediment sourced from a nearby, rapidly eroding mountain range?", "type":"multiple-choice", "body":"Consider the weathering resistance of different minerals and the transport distance." }
+- [ ] Quartz arenite
+- [x] Arkose
+- [ ] Litharenite
+- [ ] All sandstones are equally likely
+```
+
+
 ## The Sculpting Forces: Weathering and Erosion
 
 Weathering is the breakdown of rocks, soils, and minerals through direct contact with the Earth's atmosphere. Erosion is the movement of these weathered materials by agents such as wind, water, and ice. Both processes are crucial in the formation of sandstone arches.
