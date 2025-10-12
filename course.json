@@ -252,6 +252,13 @@
           "id": "2e36ee3e25834333b187924d65b299d3",
           "state": "stable",
           "description": "Introduction to the Next.js framework for server-side rendering and static site generation."
+        },
+        {
+          "title": "sandstone arches",
+          "type": "instruction",
+          "path": "instruction/sandstone-arches/sandstone-arches.md",
+          "id": "fa04d174fbd24058be8685d775a35ac0",
+          "description": "How do they form and everything sandstone"
         }
       ]
     },
