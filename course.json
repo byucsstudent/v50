@@ -126,7 +126,7 @@
           "title": "Continuous Integration and Deployment (CI/CD)",
           "path": "instruction/continuous-integration-and-deployment-ci-cd/continuous-integration-and-deployment-ci-cd.md",
           "id": "567ba00593184601a6303fcd6e901849",
-          "state": "stub",
+          "state": "stable",
           "description": "Automating the build, test, and deployment process."
         },
         {
@@ -152,7 +152,7 @@
           "title": "React Components: Functional vs. Class",
           "path": "instruction/react-components-functional-vs-class/react-components-functional-vs-class.md",
           "id": "7e281824c7084d4293816bb014b14048",
-          "state": "stub",
+          "state": "stable",
           "description": "Functional and class-based React components."
         },
         {
