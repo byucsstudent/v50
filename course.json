@@ -76,21 +76,21 @@
           "title": "Transpilation with Babel",
           "path": "instruction/transpilation-with-babel/transpilation-with-babel.md",
           "id": "ea85a02156af4b91b64f63149d71992d",
-          "state": "stub",
+          "state": "stable",
           "description": "Using Babel to transpile modern JavaScript code."
         },
         {
           "title": "Code Optimization Techniques",
           "path": "instruction/code-optimization-techniques/code-optimization-techniques.md",
           "id": "11a378f37b1f48f8858279b22c319df7",
-          "state": "stub",
+          "state": "stable",
           "description": "Techniques for optimizing JavaScript code for performance."
         },
         {
           "title": "Accessibility Considerations",
           "path": "instruction/accessibility-considerations/accessibility-considerations.md",
           "id": "ca690d6209cc4cd4bf62300f8d1d102e",
-          "state": "stub",
+          "state": "stable",
           "description": "Building web applications with accessibility in mind."
         },
         {
