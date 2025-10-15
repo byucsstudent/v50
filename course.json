@@ -112,14 +112,14 @@
           "title": "Performance Monitoring",
           "path": "instruction/performance-monitoring/performance-monitoring.md",
           "id": "5c8a565f80654a5684a12261c94e77df",
-          "state": "stub",
+          "state": "stable",
           "description": "Tools and techniques for monitoring web application performance."
         },
         {
           "title": "Version Control with Git",
           "path": "instruction/version-control-with-git/version-control-with-git.md",
           "id": "bc725c1821c145799956014406aca257",
-          "state": "stub",
+          "state": "stable",
           "description": "Using Git for version control and collaboration."
         },
         {
