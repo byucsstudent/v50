@@ -555,7 +555,7 @@
           "path": "instruction/routing-implementation/routing-implementation.md",
           "id": "c5ae3a125d0d42a5a8953048b35f8170",
           "state": "stable",
-          "description": "Implementing a routing system for navigation."
+          "description": "Implementing routing and navigation for the application."
         },
         {
           "title": "Templating Engine",
