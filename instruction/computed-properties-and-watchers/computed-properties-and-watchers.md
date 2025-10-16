@@ -1,178 +1,254 @@
 # Computed Properties and Watchers
 
-Vue.js provides powerful tools for managing and reacting to data changes within your applications. Two key features that facilitate this are **computed properties** and **watchers**. They offer elegant solutions for deriving data based on existing data and executing side effects when data changes. Understanding and utilizing these features effectively is crucial for building reactive and maintainable Vue applications.
+Computed properties and watchers are essential tools in Vue.js for managing and reacting to data changes within your application. They provide elegant ways to derive new data from existing data and execute side effects when data changes, respectively. Understanding these concepts is crucial for building reactive and maintainable Vue components.
 
-Computed properties allow you to define properties that are dynamically calculated based on other reactive data. Watchers, on the other hand, enable you to execute custom logic in response to changes in specific data properties. Let's explore each in detail.
+Computed properties allow you to define properties that are dynamically calculated based on other reactive data. They act like regular properties, but their value is automatically updated whenever their dependencies change. Watchers, on the other hand, provide a more generic way to react to data changes, allowing you to execute custom code in response to specific data modifications.
 
 ## Computed Properties
 
-Computed properties are essentially functions that are cached and only re-evaluated when their reactive dependencies change. This caching mechanism makes them incredibly efficient for complex calculations that don't need to be re-run on every render.
+Computed properties are functions that are cached based on their dependencies. Vue will only re-evaluate the computed property when one of its dependencies has changed. This caching mechanism provides significant performance benefits, especially when dealing with computationally intensive calculations.
 
-**Basic Syntax:**
-
-```javascript
-computed: {
-  fullName: {
-    get: function () {
-      return this.firstName + ' ' + this.lastName;
-    },
-    set: function (newValue) {
-      const names = newValue.split(' ')
-      this.firstName = names[0]
-      this.lastName = names[names.length - 1]
-    }
-  }
-}
-```
-
-In this example, `fullName` is a computed property that depends on `firstName` and `lastName`.  Whenever either `firstName` or `lastName` changes, the `fullName` computed property will be automatically re-evaluated and its value updated.
-
-**Shorthand Syntax (Read-Only Computed Properties):**
-
-If your computed property only needs to perform a calculation and return a value (i.e., it's read-only), you can use a more concise shorthand syntax:
+To define a computed property, you add it to the `computed` option in your Vue component. The computed property should be a function that returns the desired value.
 
 ```javascript
-computed: {
-  fullName: function () {
-    return this.firstName + ' ' + this.lastName;
-  }
-}
-```
-
-This is equivalent to the `get` function in the full syntax.
-
-**Example:**
-
-Consider a scenario where you need to display a formatted price based on a raw price and a currency symbol:
-
-```vue
-<template>
-  <div>
-    <p>Raw Price: {{ rawPrice }}</p>
-    <p>Formatted Price: {{ formattedPrice }}</p>
-  </div>
-</template>
-
-<script>
-export default {
-  data() {
+Vue.component('computed-example', {
+  data: function () {
     return {
-      rawPrice: 100,
-      currency: '$'
-    };
+      firstName: 'John',
+      lastName: 'Doe'
+    }
   },
   computed: {
-    formattedPrice() {
-      return this.currency + this.rawPrice.toFixed(2);
+    fullName: function () {
+      return this.firstName + ' ' + this.lastName
     }
-  }
-};
-</script>
+  },
+  template: '<div>Full Name: {{ fullName }}</div>'
+})
 ```
 
-In this example, `formattedPrice` is a computed property that automatically updates whenever `rawPrice` or `currency` changes. `toFixed(2)` ensures the price is always displayed with two decimal places.
+In this example, `fullName` is a computed property that depends on `firstName` and `lastName`. Whenever either `firstName` or `lastName` changes, `fullName` will be automatically updated.
 
-**Benefits of Using Computed Properties:**
+**Getters and Setters**
 
-*   **Declarative:** Computed properties clearly express the relationship between data and derived values.
-*   **Caching:**  They are cached based on their dependencies, improving performance.
-*   **Readability:**  They encapsulate complex logic, making your templates cleaner and easier to understand.
-*   **Maintainability:** Changes to the underlying data automatically trigger updates in the computed property, reducing the risk of inconsistencies.
+Computed properties can also have getters and setters. The getter is used to retrieve the value of the computed property, while the setter is used to update the values of the data properties that the computed property depends on. This allows you to use computed properties for two-way data binding.
+
+```javascript
+Vue.component('computed-example-with-setter', {
+  data: function () {
+    return {
+      firstName: 'John',
+      lastName: 'Doe'
+    }
+  },
+  computed: {
+    fullName: {
+      get: function () {
+        return this.firstName + ' ' + this.lastName
+      },
+      set: function (newValue) {
+        const names = newValue.split(' ')
+        this.firstName = names[0]
+        this.lastName = names[names.length - 1]
+      }
+    }
+  },
+  template: `
+    <div>
+      Full Name: {{ fullName }}
+      <input v-model="fullName">
+    </div>
+  `
+})
+```
+
+In this example, the `fullName` computed property has both a getter and a setter. When the input field is updated, the setter is called, which updates the `firstName` and `lastName` data properties accordingly.
+
+**Practical Example: Filtering a List**
+
+Consider a scenario where you have a list of items and you want to display only the items that match a certain criteria. You can use a computed property to filter the list.
+
+```javascript
+Vue.component('filtered-list', {
+  data: function () {
+    return {
+      items: ['apple', 'banana', 'orange', 'grape'],
+      filterText: ''
+    }
+  },
+  computed: {
+    filteredItems: function () {
+      const filter = this.filterText.toLowerCase()
+      return this.items.filter(item => item.toLowerCase().includes(filter))
+    }
+  },
+  template: `
+    <div>
+      <input v-model="filterText" placeholder="Filter items">
+      <ul>
+        <li v-for="item in filteredItems" :key="item">{{ item }}</li>
+      </ul>
+    </div>
+  `
+})
+```
+
+In this example, `filteredItems` is a computed property that returns a filtered version of the `items` array based on the value of `filterText`. As the user types in the input field, the `filterText` data property is updated, which triggers the re-evaluation of the `filteredItems` computed property.
 
 ## Watchers
 
-Watchers provide a more general mechanism for reacting to data changes.  They allow you to execute arbitrary code in response to changes in a specific data property.
+Watchers provide a more generic way to react to data changes. They allow you to execute custom code whenever a specific data property changes. Unlike computed properties, watchers are designed for performing side effects, such as making API calls or manipulating the DOM.
 
-**Basic Syntax:**
+To define a watcher, you add it to the `watch` option in your Vue component. The watcher should be a function that takes two arguments: the new value of the data property and the old value of the data property.
 
 ```javascript
-watch: {
-  propertyName: function (newValue, oldValue) {
-    // Execute code here when propertyName changes
-  }
-}
-```
-
-*   `propertyName`: The name of the data property to watch.
-*   `newValue`: The new value of the property.
-*   `oldValue`: The previous value of the property.
-
-**Example:**
-
-Let's say you want to log a message to the console whenever the `rawPrice` changes:
-
-```vue
-<script>
-export default {
-  data() {
+Vue.component('watcher-example', {
+  data: function () {
     return {
-      rawPrice: 100
-    };
+      question: '',
+      answer: 'Questions usually contain a question mark. ;)'
+    }
   },
   watch: {
-    rawPrice(newValue, oldValue) {
-      console.log(`rawPrice changed from ${oldValue} to ${newValue}`);
+    // whenever question changes, this function will run
+    question: function (newQuestion, oldQuestion) {
+      console.log(`Asking question: ${newQuestion}`)
+      this.getAnswer()
     }
-  }
-};
-</script>
+  },
+  methods: {
+    getAnswer: _.debounce( // Note: Using lodash's debounce
+      function () {
+        if (this.question.indexOf('?') === -1) {
+          this.answer = 'Questions usually contain a question mark. ;)'
+          return
+        }
+        this.answer = 'Thinking...'
+        axios
+          .get('https://yesno.wtf/api')
+          .then(response => {
+            this.answer = _.capitalize(response.data.answer)
+          })
+          .catch(error => {
+            this.answer = 'Error! Could not reach the API. ' + error
+          })
+      },
+      500
+    )
+  },
+  template: `
+    <div>
+      <p>
+        Ask a yes/no question:
+        <input v-model="question">
+      </p>
+      <p>{{ answer }}</p>
+    </div>
+  `
+})
 ```
 
-Whenever `rawPrice` is updated, the `watch` function will execute, logging the old and new values to the console.
+In this example, the watcher is triggered whenever the `question` data property changes. The watcher function then calls the `getAnswer` method, which makes an API call to retrieve a yes/no answer.  The `_.debounce` method from lodash is used to limit how often we send the API request, which is a common technique to improve performance and avoid excessive API calls.  You'll need to install lodash and axios to use this example `npm install lodash axios`.  The example also requires you to include lodash in your component.
 
-**Deep Watching:**
+**Deep Watchers**
 
-By default, watchers only detect changes to the top-level property. If you need to watch for changes within a nested object or array, you can use the `deep` option:
+By default, watchers only react to changes in the value of the data property itself. If you want to react to changes within a nested object or array, you need to use a deep watcher.
 
 ```javascript
-watch: {
-  myObject: {
-    handler: function (newValue, oldValue) {
-      // Execute code here when any property within myObject changes
-    },
-    deep: true
-  }
-}
+Vue.component('deep-watcher-example', {
+  data: function () {
+    return {
+      user: {
+        name: 'John',
+        age: 30
+      }
+    }
+  },
+  watch: {
+    user: {
+      handler: function (newVal, oldVal) {
+        console.log('User object changed!')
+      },
+      deep: true
+    }
+  },
+  template: '<div>User Name: {{ user.name }}</div>'
+})
 ```
 
-**Immediate Invocation:**
+In this example, the `deep` option is set to `true`, which means that the watcher will be triggered whenever any property within the `user` object changes.
 
-If you want the watcher to execute immediately when the component is created, you can use the `immediate` option:
+**Immediate Watchers**
+
+By default, watchers are only triggered when the data property changes. If you want to trigger the watcher immediately when the component is created, you can use an immediate watcher.
 
 ```javascript
-watch: {
-  myProperty: {
-    handler: function (newValue, oldValue) {
-      // Execute code here immediately and whenever myProperty changes
-    },
-    immediate: true
-  }
-}
+Vue.component('immediate-watcher-example', {
+  data: function () {
+    return {
+      message: 'Hello'
+    }
+  },
+  watch: {
+    message: {
+      handler: function (newVal, oldVal) {
+        console.log('Message changed!')
+      },
+      immediate: true
+    }
+  },
+  template: '<div>Message: {{ message }}</div>'
+})
 ```
 
-**When to Use Watchers vs. Computed Properties:**
+In this example, the `immediate` option is set to `true`, which means that the watcher will be triggered immediately when the component is created.
 
-*   **Computed Properties:** Use computed properties when you need to derive a new value from existing data. They are ideal for calculations and data transformations.
+**Practical Example: Validating Input**
 
-*   **Watchers:** Use watchers when you need to perform side effects in response to data changes. Examples include making API calls, updating local storage, or manipulating the DOM directly. Watchers are more flexible and can handle more complex logic.
+Watchers are often used for validating user input. For example, you can use a watcher to check if an email address is valid.
 
-Generally, prefer computed properties when possible because they are more declarative and easier to reason about. Reserve watchers for scenarios where you need to perform actions that are not directly related to deriving a new value.
+```javascript
+Vue.component('validation-example', {
+  data: function () {
+    return {
+      email: '',
+      isValidEmail: true
+    }
+  },
+  watch: {
+    email: function (newEmail) {
+      this.isValidEmail = this.validateEmail(newEmail)
+    }
+  },
+  methods: {
+    validateEmail: function (email) {
+      const re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+      return re.test(email)
+    }
+  },
+  template: `
+    <div>
+      <input v-model="email" placeholder="Enter your email">
+      <p v-if="!isValidEmail" style="color: red;">Invalid email address</p>
+    </div>
+  `
+})
+```
+
+In this example, the watcher is triggered whenever the `email` data property changes. The watcher function then calls the `validateEmail` method to check if the email address is valid. If the email address is invalid, the `isValidEmail` data property is set to `false`, which displays an error message.
 
 ## Common Challenges and Solutions
 
-*   **Watcher Not Triggering:** Ensure that the property you are watching is actually reactive.  Vue only observes properties defined in the `data` object.  If you're dynamically adding properties, you may need to use `Vue.set` or `this.$set` to make them reactive.
+*   **Performance:** Overusing watchers or computed properties can impact performance. Make sure to use them judiciously and avoid complex calculations within them. Use caching where appropriate.
+*   **Infinite Loops:** Be careful when using watchers to update the same data property that triggers the watcher. This can lead to infinite loops. Ensure that the watcher's logic has a clear exit condition or use computed properties instead.
+*   **Debugging:** Debugging watchers can be tricky. Use `console.log` statements or Vue Devtools to track the values of the data properties and the execution of the watcher function.
+*   **Asynchronous Operations:** When performing asynchronous operations within a watcher, be mindful of race conditions. Use techniques like debouncing or throttling to control the frequency of the operations.
 
-*   **Infinite Loops:** Be careful when modifying the watched property within the watcher itself. This can lead to an infinite loop.  Ensure that your logic prevents the property from being continuously updated.
+## When to Use Computed Properties vs. Watchers
 
-*   **Performance Issues with Deep Watching:** Deep watching can be expensive, especially for large objects.  Consider whether you really need to watch for deep changes or if you can optimize your data structure to avoid it.
-
-*   **Debugging Watchers:** Use `console.log` statements or a debugger to understand the flow of execution within your watchers.  Pay attention to the `newValue` and `oldValue` to ensure that the watcher is behaving as expected.
-
-## External Resources
-
-*   **Vue.js Documentation on Computed Properties:** [https://vuejs.org/guide/essentials/computed.html](https://vuejs.org/guide/essentials/computed.html)
-*   **Vue.js Documentation on Watchers:** [https://vuejs.org/guide/essentials/watchers.html](https://vuejs.org/guide/essentials/watchers.html)
+*   Use **computed properties** when you need to derive a new value from existing data and display it in the template. They are ideal for calculations and data transformations.
+*   Use **watchers** when you need to perform side effects in response to data changes, such as making API calls, manipulating the DOM, or triggering other events.
 
 ## Summary
 
-Computed properties and watchers are essential tools for building reactive and maintainable Vue.js applications. Computed properties provide a declarative way to derive new values from existing data, while watchers allow you to execute custom logic in response to data changes.  Understanding the strengths and weaknesses of each feature will empower you to write cleaner, more efficient, and more robust Vue components. Think about how you can apply these concepts to improve the reactivity and data management in your own projects. How can you refactor existing code to leverage computed properties instead of methods? What side effects in your application can be effectively managed using watchers?
+Computed properties and watchers are powerful tools for managing data and reactivity in Vue.js. Computed properties provide a way to derive new data from existing data, while watchers allow you to execute custom code in response to data changes. By understanding the differences between these concepts and using them appropriately, you can build more reactive, maintainable, and performant Vue applications. Remember to consider performance implications and potential pitfalls like infinite loops, and choose the right tool for the specific task at hand.
