@@ -87,19 +87,19 @@
           "description": "Techniques for optimizing JavaScript code for performance."
         },
         {
-          "title": "Accessibility Considerations",
-          "path": "instruction/accessibility-considerations/accessibility-considerations.md",
-          "id": "ca690d6209cc4cd4bf62300f8d1d102e",
-          "state": "stable",
-          "description": "Building web applications with accessibility in mind."
-        },
-        {
           "title": "Testing Strategies",
           "type": "project",
           "path": "instruction/testing-strategies/testing-strategies.md",
           "id": "1898c005407d4957bab3d08c7f34685f",
           "state": "stable",
           "description": "Unit, integration, and end-to-end testing."
+        },
+        {
+          "title": "Accessibility Considerations",
+          "path": "instruction/accessibility-considerations/accessibility-considerations.md",
+          "id": "ca690d6209cc4cd4bf62300f8d1d102e",
+          "state": "stable",
+          "description": "Building web applications with accessibility in mind."
         },
         {
           "title": "Debugging Techniques",
