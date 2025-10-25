@@ -22,7 +22,7 @@ Sandstone arches are breathtaking geological formations sculpted by the relentle
 ```
 
 ```masteryls
-{"id":"2329bf82-5a2e-4c56-81af-3194cad7f98b", "title":"Rock climbing article", "type":"url-submission", "body":"Simple url to a webpage that discusses rock climbing", "allowComment":true }
+{"id":"2329bf82-5a2e-4c56-81af-3194cad7f98b", "title":"Fibonacci article", "type":"url-submission", "body":"Simple url to a webpage that discusses Fibonacci", "allowComment":true }
 ```
 
 
