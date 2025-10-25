@@ -6,6 +6,14 @@
       "title": "Web Framework Fundamentals",
       "topics": [
         {
+          "title": "Overview",
+          "path": "README.md",
+          "id": "34cb25fc22994caa9a5e9cd1dc74eeca",
+          "state": "stable",
+          "description": "Course introduction and objectives.",
+          "commit": "23a3b874ef645477a3db14c696770560ee1844ec"
+        },
+        {
           "title": "Software engineering principles",
           "type": "quiz",
           "path": "instruction/software-engineering-principles/software-engineering-principles.md",
@@ -27,14 +35,6 @@
           "id": "fa04d174fbd24058be8685d775a35ac0",
           "description": "How do they form and everything sandstone",
           "commit": "cacd412ca75d21d8dd70902364a43a06efe9fb04"
-        },
-        {
-          "title": "Overview",
-          "path": "README.md",
-          "id": "34cb25fc22994caa9a5e9cd1dc74eeca",
-          "state": "stable",
-          "description": "Course introduction and objectives.",
-          "commit": "23a3b874ef645477a3db14c696770560ee1844ec"
         },
         {
           "title": "cow",
