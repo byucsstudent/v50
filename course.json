@@ -21,6 +21,14 @@
           "description": "Unit, integration, and end-to-end testing."
         },
         {
+          "title": "sandstone arches",
+          "type": "instruction",
+          "path": "instruction/sandstone-arches/sandstone-arches.md",
+          "id": "fa04d174fbd24058be8685d775a35ac0",
+          "description": "How do they form and everything sandstone",
+          "commit": "cacd412ca75d21d8dd70902364a43a06efe9fb04"
+        },
+        {
           "title": "Overview",
           "path": "README.md",
           "id": "34cb25fc22994caa9a5e9cd1dc74eeca",
@@ -252,14 +260,6 @@
           "id": "2e36ee3e25834333b187924d65b299d3",
           "state": "stable",
           "description": "Introduction to the Next.js framework for server-side rendering and static site generation."
-        },
-        {
-          "title": "sandstone arches",
-          "type": "instruction",
-          "path": "instruction/sandstone-arches/sandstone-arches.md",
-          "id": "fa04d174fbd24058be8685d775a35ac0",
-          "description": "How do they form and everything sandstone",
-          "commit": "cacd412ca75d21d8dd70902364a43a06efe9fb04"
         }
       ]
     },
