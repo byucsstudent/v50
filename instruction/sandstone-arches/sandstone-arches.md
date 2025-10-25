@@ -41,8 +41,8 @@ Understanding these classifications allows geologists to interpret the history o
 
 ```mermaid
 graph LR
-    A[Quartz (Q)] --> B;
-    A --> C(Lithics (L));
+    A --> B;
+    A --> C;
     B --> C;
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style B fill:#ccf,stroke:#333,stroke-width:2px
