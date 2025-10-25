@@ -13,6 +13,14 @@
           "commit": "643f0e545feb2ba32b65c27a801084437efe02e3"
         },
         {
+          "title": "Testing Strategies",
+          "type": "project",
+          "path": "instruction/testing-strategies/testing-strategies.md",
+          "id": "1898c005407d4957bab3d08c7f34685f",
+          "state": "stable",
+          "description": "Unit, integration, and end-to-end testing."
+        },
+        {
           "title": "Overview",
           "path": "README.md",
           "id": "34cb25fc22994caa9a5e9cd1dc74eeca",
@@ -85,14 +93,6 @@
           "id": "11a378f37b1f48f8858279b22c319df7",
           "state": "stable",
           "description": "Techniques for optimizing JavaScript code for performance."
-        },
-        {
-          "title": "Testing Strategies",
-          "type": "project",
-          "path": "instruction/testing-strategies/testing-strategies.md",
-          "id": "1898c005407d4957bab3d08c7f34685f",
-          "state": "stable",
-          "description": "Unit, integration, and end-to-end testing."
         },
         {
           "title": "Accessibility Considerations",
