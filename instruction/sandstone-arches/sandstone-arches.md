@@ -14,15 +14,15 @@ Sandstone arches are breathtaking geological formations sculpted by the relentle
 
 
 ```masteryls
-{"id":"8b390531-be80-4370-ae8d-d98f0b60380c", "title":"Essay", "type":"essay", "body":"What is the best sandstone for rock climbing?" }
+{"id":"8b390531-be80-4370-ae8d-d98f0b60380c", "title":"Best rocks", "type":"essay", "body":"What is the best sandstone for rock climbing?" }
 ```
 
 ```masteryls
-{"id":"0b9a5489-349e-4ba8-827d-0a65328d8ba9", "title":"File submission", "type":"file-submission", "body":"Submit a file containing a recursive implementation of Fibonacci.", "allowComment":true  }
+{"id":"0b9a5489-349e-4ba8-827d-0a65328d8ba9", "title":"Fibonacci", "type":"file-submission", "body":"Submit a file containing a recursive implementation of Fibonacci.", "allowComment":true  }
 ```
 
 ```masteryls
-{"id":"2329bf82-5a2e-4c56-81af-3194cad7f98b", "title":"URL submission", "type":"url-submission", "body":"Simple url to a webpage that discusses rock climbing", "allowComment":true }
+{"id":"2329bf82-5a2e-4c56-81af-3194cad7f98b", "title":"Rock climbing article", "type":"url-submission", "body":"Simple url to a webpage that discusses rock climbing", "allowComment":true }
 ```
 
 
