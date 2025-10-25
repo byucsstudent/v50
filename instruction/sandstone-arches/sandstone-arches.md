@@ -14,7 +14,7 @@ Sandstone arches are breathtaking geological formations sculpted by the relentle
 
 
 ```masteryls
-{"id":"8b390531-be80-4370-ae8d-d98f0b60380c", "title":"Recursive Fibonacci", "type":"essay", "body":"Enter your solution for a recursive implementation of Fibonacci?" }
+{"id":"8b390531-be80-4370-ae8d-d98f0b60380c", "title":"Recursive Fibonacci", "type":"essay", "body":"Enter your solution for a recursive implementation of Fibonacci" }
 ```
 
 ```masteryls
