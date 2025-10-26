@@ -14,13 +14,6 @@
           "commit": "23a3b874ef645477a3db14c696770560ee1844ec"
         },
         {
-          "title": "Fibonacci",
-          "type": "exam",
-          "path": "instruction/fibonacci/fibonacci.md",
-          "id": "c5ad4e49-f208-4f85-9a64-5aaeb062c1db",
-          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor"
-        },
-        {
           "title": "Software engineering principles",
           "type": "quiz",
           "path": "instruction/software-engineering-principles/software-engineering-principles.md",
