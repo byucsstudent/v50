@@ -143,6 +143,13 @@
           "path": "instruction/virtual-dom/virtual-dom.md",
           "id": "6b053e0780564ad684a5152650f5621d",
           "commit": "25bb571f853c938b37d4d706aa4d54ba86ab8701"
+        },
+        {
+          "title": "Fibonacci",
+          "type": "instruction",
+          "path": "instruction/fibonacci/fibonacci.md",
+          "id": "373c446f-b7e8-45a6-a40a-016fbe6be2b9",
+          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor"
         }
       ]
     },
