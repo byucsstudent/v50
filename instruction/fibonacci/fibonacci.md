@@ -116,34 +116,3 @@ Think about how the Fibonacci sequence might be used in unexpected places. Consi
 ## Summary
 
 The Fibonacci sequence is a fascinating mathematical concept with a rich history and diverse applications. Understanding its properties and different implementation methods can be valuable in various fields, from computer science to art. By exploring the examples and considering the challenges, you can gain a deeper appreciation for the power and elegance of this sequence.
-
-## Exam
-
-### Question 1
-
-```masteryls
-{"title":"Multiple choice", "type":"multiple-choice", "body":"Which of the following is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, ?" }
-- [ ] 32
-- [x] 34
-- [ ] 33
-- [ ] 35
-
-
-```masteryls
-
-### Question 2
-
-```masteryls
-{"title":"Multiple choice", "type":"multiple-choice", "body":"Which approach is generally the *least* efficient for calculating Fibonacci numbers for larger values of n?" }
-- [ ] Iterative
-- [ ] Memoization
-- [x] Recursive
-- [ ] Using the Golden Ratio formula (Binet's Formula)
-
-```masteryls
-
-### Question 3
-
-```masteryls
-{"title":"Question title", "type":"essay", "body":"Describe the Golden Ratio and its relationship to the Fibonacci sequence. Provide at least two examples of where the Golden Ratio can be found in nature or art." }
-```
