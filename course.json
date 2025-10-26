@@ -149,7 +149,8 @@
           "type": "exam",
           "path": "instruction/fibonacci/fibonacci.md",
           "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
-          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor"
+          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
+          "commit": "2cb9ea1f862642b88c60b6fce210f9d6a6a3f569"
         }
       ]
     },
