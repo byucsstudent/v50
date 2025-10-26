@@ -151,6 +151,13 @@
           "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
           "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
           "commit": "2cb9ea1f862642b88c60b6fce210f9d6a6a3f569"
+        },
+        {
+          "title": "Fibonacci exam",
+          "type": "exam",
+          "path": "instruction/fibonacci-exam/fibonacci-exam.md",
+          "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
+          "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion"
         }
       ]
     },
