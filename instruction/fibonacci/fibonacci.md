@@ -109,6 +109,21 @@ console.log(fibonacciMemoization(6)); // Output: 8
 *   **Performance:** The recursive approach is very slow for large `n`.  Use the iterative approach or memoization for better performance.
 *   **Understanding the Logic:**  It can be tricky to grasp the iterative approach initially.  Try tracing the values of `a`, `b`, and `temp` in a table to understand how it works.
 
+## Quiz
+
+```masteryls
+{"id":"8b390531-be80-4370-ae8d-d98f0b60380c", "title":"Recursive Fibonacci", "type":"essay", "body":"Enter your solution for a recursive implementation of Fibonacci" }
+```
+
+```masteryls
+{"id":"0b9a5489-349e-4ba8-827d-0a65328d8ba9", "title":"Fibonacci", "type":"file-submission", "body":"Submit a file containing a recursive implementation of Fibonacci.", "allowComment":true  }
+```
+
+```masteryls
+{"id":"2329bf82-5a2e-4c56-81af-3194cad7f98b", "title":"Fibonacci article", "type":"url-submission", "body":"Simple url to a webpage that discusses Fibonacci", "allowComment":true }
+```
+
+
 ## Engagement
 
 Think about how the Fibonacci sequence might be used in unexpected places. Consider the design of everyday objects, or the way information is structured online. Do you see any evidence of Fibonacci numbers or the Golden Ratio? Try to create your own visual representation of the Fibonacci sequence using a programming language or design tool.
