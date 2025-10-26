@@ -153,7 +153,7 @@
           "commit": "2cb9ea1f862642b88c60b6fce210f9d6a6a3f569"
         },
         {
-          "title": "Fibonacci exam",
+          "title": "Fibonacci intro and exam",
           "type": "exam",
           "path": "instruction/fibonacci-exam/fibonacci-exam.md",
           "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
