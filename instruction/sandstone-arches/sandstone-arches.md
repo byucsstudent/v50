@@ -11,21 +11,6 @@ Sandstone arches are breathtaking geological formations sculpted by the relentle
 - [ ] Rapid deposition of sandstone layers during a single, large flooding event.
 - [ ] Intense volcanic activity that melts and reshapes the sandstone.
 ```
-
-
-```masteryls
-{"id":"8b390531-be80-4370-ae8d-d98f0b60380c", "title":"Recursive Fibonacci", "type":"essay", "body":"Enter your solution for a recursive implementation of Fibonacci" }
-```
-
-```masteryls
-{"id":"0b9a5489-349e-4ba8-827d-0a65328d8ba9", "title":"Fibonacci", "type":"file-submission", "body":"Submit a file containing a recursive implementation of Fibonacci.", "allowComment":true  }
-```
-
-```masteryls
-{"id":"2329bf82-5a2e-4c56-81af-3194cad7f98b", "title":"Fibonacci article", "type":"url-submission", "body":"Simple url to a webpage that discusses Fibonacci", "allowComment":true }
-```
-
-
 Sandstone is a sedimentary rock composed primarily of sand-sized mineral particles or rock fragments. These grains, often quartz or feldspar, are cemented together by various minerals such as silica, calcium carbonate, or iron oxides. The properties of sandstone, including its color, hardness, and porosity, are determined by the composition, size, and arrangement of these grains, as well as the type and amount of cement.
 
 The color of sandstone is particularly striking and varies widely depending on the cementing agent. Iron oxides, for instance, can impart vibrant red, orange, and brown hues, while silica cement typically results in a lighter, often white or gray, appearance. The famous red rock landscapes of the American Southwest are a prime example of iron-oxide-rich sandstone.
