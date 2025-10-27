@@ -13,12 +13,6 @@ This sequence appears surprisingly often in nature, mathematics, computer scienc
 The Fibonacci sequence is named after Leonardo Pisano, also known as Fibonacci, an Italian mathematician who lived from 1170 to 1250. Fibonacci introduced the sequence to Western European mathematics in his 1202 book, *Liber Abaci*.  While Fibonacci popularized the sequence, it had been described earlier in Indian mathematics. *Liber Abaci* described a thought experiment about how fast rabbits could breed in ideal circumstances.
 
 
-
-```masteryls
-{"id":"8b390531-be80-4370-ae8d-d98f0b60380d", "title":"History of Fibonacci", "type":"essay", "body":"Describe the historical significance of Fibonacci's work" }
-```
-
-
 ## Applicability
 
 The Fibonacci sequence isn't just a mathematical curiosity; it has real-world applications across various fields:
@@ -27,6 +21,10 @@ The Fibonacci sequence isn't just a mathematical curiosity; it has real-world ap
 *   **Computer Science:**  Fibonacci numbers are used in algorithms for searching, sorting, and data compression.
 *   **Finance:** Some traders use Fibonacci ratios as tools to predict price movements in financial markets.
 *   **Art and Architecture:** The Golden Ratio, derived from the Fibonacci sequence, is used in design and architecture to create aesthetically pleasing proportions. Many believe that the Golden Ratio is inherently pleasing to the eye.
+
+```masteryls
+{"id":"8b390531-be80-4370-ae8d-d98f0b60380d", "title":"History of Fibonacci", "type":"essay", "body":"Describe the historical significance of Fibonacci's work" }
+```
 
 ## The Golden Ratio
 
