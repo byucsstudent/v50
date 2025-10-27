@@ -778,6 +778,13 @@
           "path": "instruction/test444/test444.md",
           "id": "8a16a4b3-05ff-4b8f-9288-75f37b1f202e",
           "description": ""
+        },
+        {
+          "title": "test555",
+          "type": "instruction",
+          "path": "instruction/test555/test555.md",
+          "id": "417a059a-aa9a-40d7-ad26-2243a6587fdd",
+          "description": ""
         }
       ]
     }
