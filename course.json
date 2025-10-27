@@ -61,7 +61,7 @@
         },
         {
           "title": "cow",
-          "type": "exam",
+          "type": "instruction",
           "path": "instruction/cow/cow.md",
           "id": "6415a059d5524f5c8727599b69cb5a5a",
           "commit": "74d51ddc44ca0b71bd9be6aef7c57e0865492a6d"
