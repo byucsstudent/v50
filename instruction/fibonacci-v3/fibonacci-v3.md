@@ -1,4 +1,4 @@
-# Fibonacci Sequence Implementation in JavaScript
+# Implementation Fibonacci Exam
 
 Here are 10 questions designed to assess understanding of implementing the Fibonacci sequence using JavaScript, suitable for a first-year university student level.
 
