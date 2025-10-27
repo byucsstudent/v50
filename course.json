@@ -757,13 +757,6 @@
           "path": "instruction/fibonacci-v3/fibonacci-v3.md",
           "id": "3bef4a84-8d17-4408-a318-ae44a66be0f8",
           "description": "Implementing fibonacci using JavaScript"
-        },
-        {
-          "title": "test555",
-          "type": "instruction",
-          "path": "instruction/test555/test555.md",
-          "id": "417a059a-aa9a-40d7-ad26-2243a6587fdd",
-          "description": ""
         }
       ]
     }
