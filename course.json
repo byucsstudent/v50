@@ -37,8 +37,8 @@
           "commit": "b1a6134287a69be02b0a196388c0dbf2b3f130ee"
         },
         {
-          "title": "Fibonacci intro and exam",
-          "type": "exam",
+          "title": "Implementing Fibonacci",
+          "type": "instruction",
           "path": "instruction/fibonacci-exam/fibonacci-exam.md",
           "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
           "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion",
