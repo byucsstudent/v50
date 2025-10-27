@@ -45,6 +45,14 @@
           "commit": "be79aa1ac7f5dd5b973ab4b04a5386e73b36262e"
         },
         {
+          "title": "Fibonacci final exam",
+          "type": "exam",
+          "path": "instruction/fibonacci-final-exam/fibonacci-final-exam.md",
+          "id": "28c3e194-925e-48d9-a227-1e90d831344a",
+          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
+          "commit": "1f1e4225501c098dd40177789f69cdee966bad7c"
+        },
+        {
           "title": "cow",
           "type": "exam",
           "path": "instruction/cow/cow.md",
@@ -159,14 +167,6 @@
           "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
           "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
           "commit": "baa38dfe8887294a80cc81e614e82bd88a0cd1fe"
-        },
-        {
-          "title": "Fibonacci final exam",
-          "type": "exam",
-          "path": "instruction/fibonacci-final-exam/fibonacci-final-exam.md",
-          "id": "28c3e194-925e-48d9-a227-1e90d831344a",
-          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
-          "commit": "1f1e4225501c098dd40177789f69cdee966bad7c"
         }
       ]
     },
