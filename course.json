@@ -157,7 +157,8 @@
           "type": "exam",
           "path": "instruction/fibonacci-exam/fibonacci-exam.md",
           "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
-          "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion"
+          "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion",
+          "commit": "513356899ae4fc89b61936fa7282bb9d4ace50f0"
         },
         {
           "title": "Fibonacci final exam",
