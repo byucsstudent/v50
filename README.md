@@ -7,7 +7,15 @@
 ## Welcome
 
 v50
+### Question 9: Code Debugging
 
+```masteryls
+{"id":"i9l4k1m0-5j6h-8i9l-2345-6789cdef0123","title":"Code Debugging", "type":"multiple-choice", "body":"Consider the following Javascript code snippet. What is the issue, and how would you fix it? \n\n\`\`\`javascript\nfunction fib(n) {\n  if (n <= 1) {\n    return 1;\n  }\n  return fib(n - 1) + fib(n - 1);\n}\n\`\`\`" }
+- [ ] The base case is incorrect; it should return 0 for n = 0.
+- [x] The function calls the fib function with `n-1` twice, and should call it with `n-1` and `n-2`.
+- [ ] There is no issue; the code calculates the Fibonacci sequence correctly.
+- [ ] The function will cause a stack overflow error for small values of `n`.
+```
 ## Outcomes
 
 By the end of the course you should have experienced the following outcomes.
