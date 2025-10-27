@@ -45,13 +45,6 @@
           "commit": "be79aa1ac7f5dd5b973ab4b04a5386e73b36262e"
         },
         {
-          "title": "Fibonacci exam",
-          "type": "exam",
-          "path": "instruction/fibonacci-v3/fibonacci-v3.md",
-          "id": "3bef4a84-8d17-4408-a318-ae44a66be0f8",
-          "description": "Implementing fibonacci using JavaScript"
-        },
-        {
           "title": "cow",
           "type": "instruction",
           "path": "instruction/cow/cow.md",
@@ -750,6 +743,13 @@
     {
       "title": "Fibonacci",
       "topics": [
+        {
+          "title": "Fibonacci exam",
+          "type": "exam",
+          "path": "instruction/fibonacci-v3/fibonacci-v3.md",
+          "id": "3bef4a84-8d17-4408-a318-ae44a66be0f8",
+          "description": "Implementing fibonacci using JavaScript"
+        },
         {
           "title": "Fibonacci",
           "type": "instruction",
