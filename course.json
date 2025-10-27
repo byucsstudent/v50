@@ -53,6 +53,14 @@
           "commit": "1f1e4225501c098dd40177789f69cdee966bad7c"
         },
         {
+          "title": "Fibonacci",
+          "type": "instruction",
+          "path": "instruction/fibonacci/fibonacci.md",
+          "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
+          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
+          "commit": "baa38dfe8887294a80cc81e614e82bd88a0cd1fe"
+        },
+        {
           "title": "cow",
           "type": "exam",
           "path": "instruction/cow/cow.md",
@@ -159,14 +167,6 @@
           "path": "instruction/virtual-dom/virtual-dom.md",
           "id": "6b053e0780564ad684a5152650f5621d",
           "commit": "25bb571f853c938b37d4d706aa4d54ba86ab8701"
-        },
-        {
-          "title": "Fibonacci",
-          "type": "instruction",
-          "path": "instruction/fibonacci/fibonacci.md",
-          "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
-          "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
-          "commit": "baa38dfe8887294a80cc81e614e82bd88a0cd1fe"
         },
         {
           "title": "Fibonacci v3",
