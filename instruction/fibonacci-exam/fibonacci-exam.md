@@ -120,7 +120,7 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 
 ---
 
-# Exam
+## Quiz
 
 ### Question 1: Historical Significance
 
