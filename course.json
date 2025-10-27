@@ -759,13 +759,6 @@
       "title": "Fibonacci",
       "topics": [
         {
-          "title": "test333",
-          "type": "instruction",
-          "path": "instruction/test333/test333.md",
-          "id": "29a803bc-1b94-4f8c-a35e-c488a95d368f",
-          "description": ""
-        },
-        {
           "title": "test444",
           "type": "instruction",
           "path": "instruction/test444/test444.md",
