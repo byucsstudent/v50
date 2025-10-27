@@ -764,6 +764,13 @@
           "path": "instruction/test222/test222.md",
           "id": "7eaef238-b438-4b28-9466-32f02d732ab1",
           "description": ""
+        },
+        {
+          "title": "test333",
+          "type": "instruction",
+          "path": "instruction/test333/test333.md",
+          "id": "29a803bc-1b94-4f8c-a35e-c488a95d368f",
+          "description": ""
         }
       ]
     }
