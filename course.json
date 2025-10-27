@@ -167,6 +167,13 @@
           "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
           "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
           "commit": "baa38dfe8887294a80cc81e614e82bd88a0cd1fe"
+        },
+        {
+          "title": "Fibonacci v3",
+          "type": "exam",
+          "path": "instruction/fibonacci-v3/fibonacci-v3.md",
+          "id": "3bef4a84-8d17-4408-a318-ae44a66be0f8",
+          "description": "Implementing fibonacci using JavaScript"
         }
       ]
     },
