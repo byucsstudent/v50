@@ -125,9 +125,12 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 1: Historical Significance
 
 ```masteryls
-{"title":"Historical Significance", "type":"multiple-choice", "body":"Who is credited with introducing the Fibonacci sequence to Western European mathematics?" }
+### Question 1: Historical Significance
+
+```masteryls
+{"id":"a7f8c9e1-2b3d-4e5f-6789-0123456789ab","title":"Historical Significance", "type":"multiple-choice", "body":"Who is credited with introducing the Fibonacci sequence to Western European mathematics?" }
 - [ ] Isaac Newton
-- [x] Leonardo Pisano (Fibonacci)
+- [x] Leonardo Pisano
 - [ ] Pythagoras
 - [ ] Euclid
 ```
@@ -135,13 +138,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 2: Iterative Implementation
 
 ```masteryls
-{"title":"Iterative Implementation", "type":"essay", "body":"Write a JavaScript function called `fibonacciIterative` that takes an integer `n` as input and returns the nth Fibonacci number using an iterative approach.  Include error handling for non-integer or negative inputs. Explain the time complexity of your function." }
+{"id":"b2e7d4f3-8c9a-1b2e-5678-9012345678cd","title":"Iterative Implementation", "type":"essay", "body":"Write a JavaScript function called `fibonacciIterative` that takes an integer `n` as input and returns the nth Fibonacci number using an iterative approach.  Include error handling for non-integer or negative inputs. Explain the time complexity of your function." }
 ```
 
 ### Question 3: Recursive Implementation
 
 ```masteryls
-{"title":"Recursive Implementation", "type":"multiple-choice", "body":"Which of the following best describes the time complexity of a naive recursive implementation of the Fibonacci sequence?" }
+{"id":"c3f8e5g4-9d0b-2c3f-6789-0123456789de","title":"Recursive Implementation", "type":"multiple-choice", "body":"Which of the following best describes the time complexity of a naive recursive implementation of the Fibonacci sequence?" }
 - [ ] O(n)
 - [ ] O(log n)
 - [x] O(2^n)
@@ -151,13 +154,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 4: Handling Invalid Input
 
 ```masteryls
-{"title":"Handling Invalid Input", "type":"essay", "body":"Describe the importance of input validation when implementing the Fibonacci sequence. Provide an example of how you would handle invalid input (e.g., negative numbers, non-integer values) in your JavaScript code." }
+{"id":"d4g9f6h5-0e1c-3d4g-7890-123456789ef0","title":"Handling Invalid Input", "type":"essay", "body":"Describe the importance of input validation when implementing the Fibonacci sequence. Provide an example of how you would handle invalid input (e.g., negative numbers, non-integer values) in your JavaScript code." }
 ```
 
 ### Question 5: Recursion vs. Iteration
 
 ```masteryls
-{"title":"Recursion vs. Iteration", "type":"multiple-choice", "body":"What is the primary disadvantage of using recursion to calculate Fibonacci numbers compared to using iteration?" }
+{"id":"e5h0g7i6-1f2d-4e5h-8901-23456789f012","title":"Recursion vs. Iteration", "type":"multiple-choice", "body":"What is the primary disadvantage of using recursion to calculate Fibonacci numbers compared to using iteration?" }
 - [ ] Recursion is more difficult to understand.
 - [x] Recursion can lead to stack overflow errors and is generally less efficient.
 - [ ] Iteration requires more code.
@@ -167,13 +170,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 6: Memoization
 
 ```masteryls
-{"title":"Memoization", "type":"essay", "body":"Explain the concept of memoization and how it can be used to optimize the recursive Fibonacci implementation. Provide a code example demonstrating memoization in JavaScript." }
+{"id":"f6i1h8j7-2g3e-5f6i-9012-3456789012ab","title":"Memoization", "type":"essay", "body":"Explain the concept of memoization and how it can be used to optimize the recursive Fibonacci implementation. Provide a code example demonstrating memoization in JavaScript." }
 ```
 
 ### Question 7: BigInt
 
 ```masteryls
-{"title":"BigInt", "type":"multiple-choice", "body":"Why might you need to use `BigInt` when calculating Fibonacci numbers?" }
+{"id":"g7j2i9k8-3h4f-6g7j-0123-456789abcdef","title":"BigInt", "type":"multiple-choice", "body":"Why might you need to use `BigInt` when calculating Fibonacci numbers?" }
 - [ ] To handle negative numbers.
 - [x] To handle numbers larger than the maximum safe integer in JavaScript.
 - [ ] To improve the performance of the iterative approach.
@@ -183,13 +186,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 8: Real-World Applications
 
 ```masteryls
-{"title":"Real-World Applications", "type":"essay", "body":"Describe at least one real-world application of the Fibonacci sequence or the golden ratio, which is closely related to the Fibonacci sequence. Explain how it is applied in that context." }
+{"id":"h8k3j0l9-4i5g-7h8k-1234-56789bcdef01","title":"Real-World Applications", "type":"essay", "body":"Describe at least one real-world application of the Fibonacci sequence or the golden ratio, which is closely related to the Fibonacci sequence. Explain how it is applied in that context." }
 ```
 
 ### Question 9: Code Debugging
 
 ```masteryls
-{"title":"Code Debugging", "type":"multiple-choice", "body":"Consider the following Javascript code snippet. What is the issue, and how would you fix it? \n\n```javascript\nfunction fib(n) {\n  if (n <= 1) {\n    return 1;\n  }\n  return fib(n - 1) + fib(n - 1);\n}\n```" }
+{"id":"i9l4k1m0-5j6h-8i9l-2345-6789cdef0123","title":"Code Debugging", "type":"multiple-choice", "body":"Consider the following Javascript code snippet. What is the issue, and how would you fix it? \n\n```javascript\nfunction fib(n) {\n  if (n <= 1) {\n    return 1;\n  }\n  return fib(n - 1) + fib(n - 1);\n}\n```" }
 - [ ] The base case is incorrect; it should return 0 for n = 0.
 - [x] The function calls the fib function with `n-1` twice, and should call it with `n-1` and `n-2`.
 - [ ] There is no issue; the code calculates the Fibonacci sequence correctly.
@@ -199,5 +202,5 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 10: Algorithmic Efficiency
 
 ```masteryls
-{"title":"Algorithmic Efficiency", "type":"essay", "body":"You are tasked with calculating the 100th Fibonacci number. Which approach – iterative, recursive, or memoized recursive – would you choose and why?  Explain your reasoning in terms of time and space complexity." }
+{"id":"j0m5l2n1-6k7i-9j0m-3456-789def012345","title":"Algorithmic Efficiency", "type":"essay", "body":"You are tasked with calculating the 100th Fibonacci number. Which approach – iterative, recursive, or memoized recursive – would you choose and why?  Explain your reasoning in terms of time and space complexity." }
 ```
