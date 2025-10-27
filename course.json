@@ -37,6 +37,14 @@
           "commit": "b1a6134287a69be02b0a196388c0dbf2b3f130ee"
         },
         {
+          "title": "Fibonacci intro and exam",
+          "type": "exam",
+          "path": "instruction/fibonacci-exam/fibonacci-exam.md",
+          "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
+          "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion",
+          "commit": "be79aa1ac7f5dd5b973ab4b04a5386e73b36262e"
+        },
+        {
           "title": "cow",
           "type": "exam",
           "path": "instruction/cow/cow.md",
@@ -151,14 +159,6 @@
           "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
           "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
           "commit": "baa38dfe8887294a80cc81e614e82bd88a0cd1fe"
-        },
-        {
-          "title": "Fibonacci intro and exam",
-          "type": "exam",
-          "path": "instruction/fibonacci-exam/fibonacci-exam.md",
-          "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
-          "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion",
-          "commit": "be79aa1ac7f5dd5b973ab4b04a5386e73b36262e"
         },
         {
           "title": "Fibonacci final exam",
