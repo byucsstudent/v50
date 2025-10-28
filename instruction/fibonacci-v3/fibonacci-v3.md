@@ -1,6 +1,6 @@
 # Implementation Fibonacci Exam
 
-Here are 10 questions designed to assess understanding of implementing the Fibonacci sequence using JavaScript, suitable for a first-year university student level.
+Here are 10 questions designed to demonstrate your mastery of implementing the Fibonacci sequence using JavaScript.
 
 ```masteryls
 {"id":"fib-mc-1", "title":"Recursive Fibonacci - Base Cases", "type":"multiple-choice", "body":"Consider the following recursive JavaScript function for calculating the Fibonacci sequence:\n\n```javascript\nfunction fibonacciRecursive(n) {\n  // Base cases missing\n  return fibonacciRecursive(n - 1) + fibonacciRecursive(n - 2);\n}\n```\n\nWhat base cases are necessary to ensure the function terminates correctly and returns the proper Fibonacci numbers for `n = 0` and `n = 1`?" }
