@@ -757,7 +757,7 @@
           "path": "instruction/fibonacci-v3/fibonacci-v3.md",
           "id": "3bef4a84-8d17-4408-a318-ae44a66be0f8",
           "description": "Implementing fibonacci using JavaScript. Demonstrate mastery of implementation, complexity, and optimization.",
-          "commit": "1ca3b06c9b7a700d64e8078bc2d9406b07f7296a"
+          "commit": "32aac4b638fe842e7fc5e493e4fdfafb4182044f"
         }
       ]
     }
