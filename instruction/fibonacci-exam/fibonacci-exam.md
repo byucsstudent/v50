@@ -176,7 +176,7 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 7: BigInt
 
 ```masteryls
-{"id":"g7j2i9k8-3h4f-6g7j-0123-456789abcdef","title":"BigInt", "type":"multiple-choice", "body":"Why might you need to use `BigInt` when calculating Fibonacci numbers?" }
+{"id":"cc7fe11e-34de-478c-b4f0-fa1c53afe634","title":"BigInt", "type":"multiple-choice", "body":"Why might you need to use `BigInt` when calculating Fibonacci numbers?" }
 - [ ] To handle negative numbers.
 - [x] To handle numbers larger than the maximum safe integer in JavaScript.
 - [ ] To improve the performance of the iterative approach.
