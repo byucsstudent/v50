@@ -138,13 +138,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 2: Iterative Implementation
 
 ```masteryls
-{"id":"b2e7d4f3-8c9a-1b2e-5678-9012345678cd","title":"Iterative Implementation", "type":"essay", "body":"Write a JavaScript function called `fibonacciIterative` that takes an integer `n` as input and returns the nth Fibonacci number using an iterative approach.  Include error handling for non-integer or negative inputs. Explain the time complexity of your function." }
+{"id":"3f21b341-f799-472b-9b5a-cbc02e73b020","title":"Iterative Implementation", "type":"essay", "body":"Write a JavaScript function called `fibonacciIterative` that takes an integer `n` as input and returns the nth Fibonacci number using an iterative approach.  Include error handling for non-integer or negative inputs. Explain the time complexity of your function." }
 ```
 
 ### Question 3: Recursive Implementation
 
 ```masteryls
-{"id":"c3f8e5g4-9d0b-2c3f-6789-0123456789de","title":"Recursive Implementation", "type":"multiple-choice", "body":"Which of the following best describes the time complexity of a naive recursive implementation of the Fibonacci sequence?" }
+{"id":"2b02e39d-3594-4983-9e00-120e9486af85","title":"Recursive Implementation", "type":"multiple-choice", "body":"Which of the following best describes the time complexity of a naive recursive implementation of the Fibonacci sequence?" }
 - [ ] O(n)
 - [ ] O(log n)
 - [x] O(2^n)
@@ -154,13 +154,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 4: Handling Invalid Input
 
 ```masteryls
-{"id":"d4g9f6h5-0e1c-3d4g-7890-123456789ef0","title":"Handling Invalid Input", "type":"essay", "body":"Describe the importance of input validation when implementing the Fibonacci sequence. Provide an example of how you would handle invalid input (e.g., negative numbers, non-integer values) in your JavaScript code." }
+{"id":"e9643730-e7f8-4728-8bb2-58aaed5743ca","title":"Handling Invalid Input", "type":"essay", "body":"Describe the importance of input validation when implementing the Fibonacci sequence. Provide an example of how you would handle invalid input (e.g., negative numbers, non-integer values) in your JavaScript code." }
 ```
 
 ### Question 5: Recursion vs. Iteration
 
 ```masteryls
-{"id":"e5h0g7i6-1f2d-4e5h-8901-23456789f012","title":"Recursion vs. Iteration", "type":"multiple-choice", "body":"What is the primary disadvantage of using recursion to calculate Fibonacci numbers compared to using iteration?" }
+{"id":"468dab22-6a1c-4c27-a7e6-acae17517577","title":"Recursion vs. Iteration", "type":"multiple-choice", "body":"What is the primary disadvantage of using recursion to calculate Fibonacci numbers compared to using iteration?" }
 - [ ] Recursion is more difficult to understand.
 - [x] Recursion can lead to stack overflow errors and is generally less efficient.
 - [ ] Iteration requires more code.
@@ -170,7 +170,7 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 6: Memoization
 
 ```masteryls
-{"id":"f6i1h8j7-2g3e-5f6i-9012-3456789012ab","title":"Memoization", "type":"essay", "body":"Explain the concept of memoization and how it can be used to optimize the recursive Fibonacci implementation. Provide a code example demonstrating memoization in JavaScript." }
+{"id":"43d0c989-b24e-41cb-ad2f-7f430117d4b6","title":"Memoization", "type":"essay", "body":"Explain the concept of memoization and how it can be used to optimize the recursive Fibonacci implementation. Provide a code example demonstrating memoization in JavaScript." }
 ```
 
 ### Question 7: BigInt
@@ -186,13 +186,13 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 8: Real-World Applications
 
 ```masteryls
-{"id":"h8k3j0l9-4i5g-7h8k-1234-56789bcdef01","title":"Real-World Applications", "type":"essay", "body":"Describe at least one real-world application of the Fibonacci sequence or the golden ratio, which is closely related to the Fibonacci sequence. Explain how it is applied in that context." }
+{"id":"cc0e05af-0fc7-4404-bdb2-00fb4b0a9587","title":"Real-World Applications", "type":"essay", "body":"Describe at least one real-world application of the Fibonacci sequence or the golden ratio, which is closely related to the Fibonacci sequence. Explain how it is applied in that context." }
 ```
 
 ### Question 9: Code Debugging
 
 ```masteryls
-{"id":"i9l4k1m0-5j6h-8i9l-2345-6789cdef0123","title":"Code Debugging", "type":"multiple-choice", "body":"Consider the following Javascript code snippet. What is the issue, and how would you fix it? \n\n```javascript\nfunction fib(n) {\n  if (n <= 1) {\n    return 1;\n  }\n  return fib(n - 1) + fib(n - 1);\n}\n```" }
+{"id":"3b03e437-701a-4e2c-b9bb-de70b5c01dce","title":"Code Debugging", "type":"multiple-choice", "body":"Consider the following Javascript code snippet. What is the issue, and how would you fix it? \n\n```javascript\nfunction fib(n) {\n  if (n <= 1) {\n    return 1;\n  }\n  return fib(n - 1) + fib(n - 1);\n}\n```" }
 - [ ] The base case is incorrect; it should return 0 for n = 0.
 - [x] The function calls the fib function with `n-1` twice, and should call it with `n-1` and `n-2`.
 - [ ] There is no issue; the code calculates the Fibonacci sequence correctly.
@@ -202,5 +202,5 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 10: Algorithmic Efficiency
 
 ```masteryls
-{"id":"j0m5l2n1-6k7i-9j0m-3456-789def012345","title":"Algorithmic Efficiency", "type":"essay", "body":"You are tasked with calculating the 100th Fibonacci number. Which approach – iterative, recursive, or memoized recursive – would you choose and why?  Explain your reasoning in terms of time and space complexity." }
+{"id":"1c43d337-be4a-4fc8-af29-eb1dc20cc641","title":"Algorithmic Efficiency", "type":"essay", "body":"You are tasked with calculating the 100th Fibonacci number. Which approach – iterative, recursive, or memoized recursive – would you choose and why?  Explain your reasoning in terms of time and space complexity." }
 ```
