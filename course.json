@@ -18,7 +18,7 @@
           "type": "quiz",
           "path": "instruction/software-engineering-principles/software-engineering-principles.md",
           "id": "ca4f5946ede84f81816c87d9becff2e5",
-          "commit": "643f0e545feb2ba32b65c27a801084437efe02e3"
+          "commit": "405066fc83d59a26227605eafc57f3e6707ef6cb"
         },
         {
           "title": "Testing Strategies",
