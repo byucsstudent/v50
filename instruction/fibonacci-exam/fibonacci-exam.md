@@ -125,9 +125,6 @@ The Fibonacci sequence is a fundamental concept in mathematics and computer scie
 ### Question 1: Historical Significance
 
 ```masteryls
-### Question 1: Historical Significance
-
-```masteryls
 {"id":"54dd14e5-8469-4c70-8f5d-4ac6753fde7b","title":"Historical Significance", "type":"multiple-choice", "body":"Who is credited with introducing the Fibonacci sequence to Western European mathematics?" }
 - [ ] Isaac Newton
 - [x] Leonardo Pisano
