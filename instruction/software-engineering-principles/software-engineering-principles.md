@@ -8,7 +8,7 @@ Software engineering principles are fundamental guidelines and best practices th
 ### Comprehension check
 
 ```masteryls
-{"id":"39280", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
+{"id":"67aa812b-3ffe-4983-bcd8-384be776b015", "type":"multiple-choice", "body":"SRP means that a class, function, or module should:" }
 - [ ] Do one thing and do it well
 - [x] Have only one reason to change
 - [ ] Be immutable
@@ -119,15 +119,6 @@ Each of these modules can then be further decomposed.  For instance, the "Order 
 *   Ignoring dependencies: Ensure that the decomposed components have well-defined interfaces and dependencies.  Poorly managed dependencies can lead to tight coupling and increased complexity.
 *   Lack of clear responsibility per component: Each component should have a clearly defined function.
 
-### Comprehension check
-
-```masteryls
-{"id":"39281", "type":"multiple-choice", "body":"Decomposition means:" }
-- [x] Breaking a problem into smaller, manageable parts
-- [ ] Combining multiple responsibilities into one module
-- [ ] Writing code without comments
-- [ ] Avoiding the use of functions
-```
 
 ## Abstraction
 
