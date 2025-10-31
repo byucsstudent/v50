@@ -172,7 +172,7 @@ Even today, in regions where wolves are present, these behaviors are readily obs
 
 The historical interaction between wolves and cattle highlights the profound influence that predators can have on the evolution and behavior of their prey. While wolves are no longer a dominant threat in many agricultural landscapes, their legacy continues to shape the way cattle behave and how we manage them.
 ```masteryls
-{"id":"wolves-1", "title":"Which of the following is NOT a common anti-predator behavior exhibited by cattle due to the historical presence of wolves?", "type":"multiple-choice", "body":"Consider the various strategies cattle employ to protect themselves from predators." }
+{"id":"8f86c2de-9524-49dc-97c8-7470657d8394", "title":"Which of the following is NOT a common anti-predator behavior exhibited by cattle due to the historical presence of wolves?", "type":"multiple-choice", "body":"Consider the various strategies cattle employ to protect themselves from predators." }
 - [ ] Herding behavior
 - [ ] Vigilance
 - [x] Migration to colder climates
@@ -180,7 +180,7 @@ The historical interaction between wolves and cattle highlights the profound inf
 ```
 
 ```masteryls
-{"id":"wolves-2", "title":"Why was the wolf a significant selective pressure on aurochs and early domesticated cattle?", "type":"multiple-choice", "body":"Think about the impact of predators on the survival and characteristics of prey animals." }
+{"id":"8f86c2de-9524-49dc-97c8-7470657d8395", "title":"Why was the wolf a significant selective pressure on aurochs and early domesticated cattle?", "type":"multiple-choice", "body":"Think about the impact of predators on the survival and characteristics of prey animals." }
 - [ ] Wolves provided a source of food for aurochs.
 - [x] Wolves preyed on aurochs, influencing their survival and traits.
 - [ ] Wolves helped aurochs find mates.
