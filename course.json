@@ -143,6 +143,13 @@
           "path": "instruction/virtual-dom/virtual-dom.md",
           "id": "6b053e0780564ad684a5152650f5621d",
           "commit": "25bb571f853c938b37d4d706aa4d54ba86ab8701"
+        },
+        {
+          "title": "fish",
+          "type": "instruction",
+          "path": "instruction/fish/fish.md",
+          "id": "777b7c30-2cfb-4891-ba31-b50e45830b98",
+          "description": ""
         }
       ]
     },
