@@ -11,6 +11,8 @@
 
 [Cow](../cow/cow.md)
 
+[Other course](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/330b3872aab6442fac17c6730d7502ed)
+
 ## Quizzes
 
 ```masteryls
