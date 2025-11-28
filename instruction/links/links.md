@@ -1,3 +1,6 @@
+
+## Links
+
 ![5364369960152892216.jpg](5364369960152892216.jpg)
 
 ![favicon-32x32.png](favicon-32x32.png)
@@ -6,6 +9,9 @@
 
 [Main.java](Main.java)
 
+[Cow](../cow/cow.md)
+
+## Quizzes
 
 ```masteryls
 {"id":"a3b2a9f8-25e3-4ca4-8cca-42f3eb20537d", "title":"Multiple choice", "type":"multiple-choice", "body": "A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage." }
