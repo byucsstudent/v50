@@ -150,6 +150,13 @@
           "path": "instruction/fish/fish.md",
           "id": "777b7c30-2cfb-4891-ba31-b50e45830b98",
           "description": ""
+        },
+        {
+          "title": "video",
+          "type": "video",
+          "path": "https://youtu.be/PKiRH2ZKZeM?cb=1764357011636",
+          "id": "840847fc-c1b8-49cf-82d0-74b22ebe27d8",
+          "description": ""
         }
       ]
     },
