@@ -51,7 +51,7 @@ graph LR
 ```
 
 ```masteryls
-{"id":"81c77b44-c93e-469a-aa02-185b779a195a", "title":"Which of the following sandstones is most likely to have formed from sediment sourced from a nearby, rapidly eroding mountain range?", "type":"multiple-choice", "body":"Consider the weathering resistance of different minerals and the transport distance." }
+{"id":"d306444a-5921-4772-b598-9f341b23412b", "title":"Which of the following sandstones is most likely to have formed from sediment sourced from a nearby, rapidly eroding mountain range?", "type":"multiple-choice", "body":"Consider the weathering resistance of different minerals and the transport distance." }
 - [ ] Quartz arenite
 - [x] Arkose
 - [ ] Litharenite
@@ -78,7 +78,7 @@ However, sandstone also presents unique challenges. Its relatively low compressi
 Climbers on sandstone should be aware of the "leave no trace" principles. This includes using established trails, avoiding climbing after rain, cleaning tick marks (chalk marks used to indicate holds), and being mindful of fragile desert varnish (a dark coating on rock surfaces). Responsible climbing practices help protect this valuable resource for future generations.
 
 ```masteryls
-{"id":"1bab5ea1-8a85-4e53-8af6-aafc4ba1cd00", "title":"Which cementing agent generally creates the strongest sandstone?", "type":"multiple-choice", "body":"Which of the following cementing agents typically results in the strongest sandstone formation?" }
+{"id":"1a375af7-3bd0-4830-9ce6-1cffa25a5694", "title":"Which cementing agent generally creates the strongest sandstone?", "type":"multiple-choice", "body":"Which of the following cementing agents typically results in the strongest sandstone formation?" }
 - [ ] Iron Oxides
 - [x] Silica
 - [ ] Calcium Carbonate
