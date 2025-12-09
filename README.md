@@ -1,12 +1,13 @@
 ![BYU logo](byuLogo.png?raw=true)
 
-# v50 v50
+# v50
 
 ![cover](coursecover.jpg?raw=true)
 
 ## Welcome
 
-v50
+Welcome to v50. A demo course for the features of Mastery LS.
+
 ### Question 9: Code Debugging
 
 ```masteryls
