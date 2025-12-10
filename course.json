@@ -29,6 +29,13 @@
           "description": "Unit, integration, and end-to-end testing."
         },
         {
+          "title": "link",
+          "type": "instruction",
+          "path": "instruction/link/link.md",
+          "id": "f398c1ae-a3d3-460d-9afe-595d068201d3",
+          "description": ""
+        },
+        {
           "title": "sandstone arches",
           "type": "instruction",
           "path": "instruction/sandstone-arches/sandstone-arches.md",
@@ -149,13 +156,6 @@
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM?cb=1764357011636",
           "id": "840847fc-c1b8-49cf-82d0-74b22ebe27d8",
-          "description": ""
-        },
-        {
-          "title": "link",
-          "type": "instruction",
-          "path": "instruction/link/link.md",
-          "id": "f398c1ae-a3d3-460d-9afe-595d068201d3",
           "description": ""
         }
       ]
