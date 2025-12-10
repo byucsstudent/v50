@@ -21,19 +21,19 @@
           "commit": "405066fc83d59a26227605eafc57f3e6707ef6cb"
         },
         {
+          "title": "link",
+          "type": "instruction",
+          "path": "instruction/link/link.md",
+          "id": "f398c1ae-a3d3-460d-9afe-595d068201d3",
+          "description": ""
+        },
+        {
           "title": "Testing Strategies",
           "type": "project",
           "path": "instruction/testing-strategies/testing-strategies.md",
           "id": "1898c005407d4957bab3d08c7f34685f",
           "state": "stable",
           "description": "Unit, integration, and end-to-end testing."
-        },
-        {
-          "title": "link",
-          "type": "instruction",
-          "path": "instruction/link/link.md",
-          "id": "f398c1ae-a3d3-460d-9afe-595d068201d3",
-          "description": ""
         },
         {
           "title": "sandstone arches",
