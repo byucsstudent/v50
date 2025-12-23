@@ -6,10 +6,11 @@
       "title": "Web Framework Fundamentals",
       "topics": [
         {
-          "title": "Overview",
+          "title": "Overviewx",
+          "type": "instruction",
           "path": "README.md",
           "id": "34cb25fc22994caa9a5e9cd1dc74eeca",
-          "state": "stable",
+          "state": "published",
           "description": "Course introduction and objectives.",
           "commit": "beedbfb4e825721eb56eb6fca92f9f4f10231f43"
         },
@@ -33,7 +34,7 @@
           "type": "project",
           "path": "instruction/testing-strategies/testing-strategies.md",
           "id": "1898c005407d4957bab3d08c7f34685f",
-          "state": "stable",
+          "state": "published",
           "description": "Unit, integration, and end-to-end testing."
         },
         {
@@ -63,7 +64,7 @@
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding the DOM tree structure and manipulation.",
           "commit": "65a01871702e086eac06e114af2f1be952c2f223"
         },
@@ -71,21 +72,21 @@
           "title": "Rendering Strategies: SSR, CSR, and SSG",
           "path": "instruction/rendering-strategies-ssr-csr-and-ssg/rendering-strategies-ssr-csr-and-ssg.md",
           "id": "4bf786a59535400191b97f6fd34108aa",
-          "state": "stable",
+          "state": "published",
           "description": "Server-side rendering, client-side rendering, and static site generation."
         },
         {
           "title": "Security Best Practices",
           "path": "instruction/security-best-practices/security-best-practices.md",
           "id": "5f8cc7b9ea3e4ec8a73657d8fc54241e",
-          "state": "stable",
+          "state": "published",
           "description": "Common security vulnerabilities and how to prevent them. Give examples of major exploits and well known hackers."
         },
         {
           "title": "JavaScript Design Patterns",
           "path": "instruction/javascript-design-patterns/javascript-design-patterns.md",
           "id": "5e1ad0efebd94ce7856ea6ec13bb3a74",
-          "state": "stable",
+          "state": "published",
           "description": "Common JavaScript patterns used in web framework development."
         },
         {
@@ -93,56 +94,56 @@
           "type": "instruction",
           "path": "instruction/module-bundlers-webpack-parcel-and-rollup/module-bundlers-webpack-parcel-and-rollup.md",
           "id": "512e430561c443aabc26ef7aef130af5",
-          "state": "stable",
+          "state": "published",
           "description": "Overview of module bundlers and their role in web development."
         },
         {
           "title": "Transpilation with Babel",
           "path": "instruction/transpilation-with-babel/transpilation-with-babel.md",
           "id": "ea85a02156af4b91b64f63149d71992d",
-          "state": "stable",
+          "state": "published",
           "description": "Using Babel to transpile modern JavaScript code."
         },
         {
           "title": "Code Optimization Techniques",
           "path": "instruction/code-optimization-techniques/code-optimization-techniques.md",
           "id": "11a378f37b1f48f8858279b22c319df7",
-          "state": "stable",
+          "state": "published",
           "description": "Techniques for optimizing JavaScript code for performance."
         },
         {
           "title": "Accessibility Considerations",
           "path": "instruction/accessibility-considerations/accessibility-considerations.md",
           "id": "ca690d6209cc4cd4bf62300f8d1d102e",
-          "state": "stable",
+          "state": "published",
           "description": "Building web applications with accessibility in mind."
         },
         {
           "title": "Debugging Techniques",
           "path": "instruction/debugging-techniques/debugging-techniques.md",
           "id": "8957fa78e16f4e82be7c38c9d6ebd212",
-          "state": "stable",
+          "state": "published",
           "description": "Debugging JavaScript code in the browser and IDE."
         },
         {
           "title": "Performance Monitoring",
           "path": "instruction/performance-monitoring/performance-monitoring.md",
           "id": "5c8a565f80654a5684a12261c94e77df",
-          "state": "stable",
+          "state": "published",
           "description": "Tools and techniques for monitoring web application performance."
         },
         {
           "title": "Version Control with Git",
           "path": "instruction/version-control-with-git/version-control-with-git.md",
           "id": "bc725c1821c145799956014406aca257",
-          "state": "stable",
+          "state": "published",
           "description": "Using Git for version control and collaboration."
         },
         {
           "title": "Continuous Integration and Deployment (CI/CD)",
           "path": "instruction/continuous-integration-and-deployment-ci-cd/continuous-integration-and-deployment-ci-cd.md",
           "id": "567ba00593184601a6303fcd6e901849",
-          "state": "stable",
+          "state": "published",
           "description": "Automating the build, test, and deployment process."
         },
         {
@@ -168,112 +169,112 @@
           "title": "React Introduction and JSX",
           "path": "instruction/react-introduction-and-jsx/react-introduction-and-jsx.md",
           "id": "9af3700614ca40a4845e156816a8c188",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to React and the JSX syntax."
         },
         {
           "title": "React Components: Functional vs. Class",
           "path": "instruction/react-components-functional-vs-class/react-components-functional-vs-class.md",
           "id": "7e281824c7084d4293816bb014b14048",
-          "state": "stable",
+          "state": "published",
           "description": "Functional and class-based React components."
         },
         {
           "title": "Props and State",
           "path": "instruction/props-and-state/props-and-state.md",
           "id": "8d3796f8c8cc47b991cf1bfa4fdd3c68",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding props and state in React components."
         },
         {
           "title": "React Lifecycle Methods",
           "path": "instruction/react-lifecycle-methods/react-lifecycle-methods.md",
           "id": "ea59709a78bd432f9de51575b3c25233",
-          "state": "stable",
+          "state": "published",
           "description": "Lifecycle methods in class-based React components."
         },
         {
           "title": "React Hooks: useState, useEffect, useContext",
           "path": "instruction/react-hooks-usestate-useeffect-usecontext/react-hooks-usestate-useeffect-usecontext.md",
           "id": "77166861eaec440bb701b45445853514",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to React Hooks for managing state and side effects."
         },
         {
           "title": "Conditional Rendering",
           "path": "instruction/conditional-rendering/conditional-rendering.md",
           "id": "3132ced3e34c4cc6a79510d3a4d3b09b",
-          "state": "stable",
+          "state": "published",
           "description": "Rendering different content based on conditions."
         },
         {
           "title": "List Rendering",
           "path": "instruction/list-rendering/list-rendering.md",
           "id": "536941dd527048c9bc52eb56a30834bc",
-          "state": "stable",
+          "state": "published",
           "description": "Rendering lists of data in React."
         },
         {
           "title": "Form Handling",
           "path": "instruction/form-handling/form-handling.md",
           "id": "59822257b8f443ad992abe324a108da5",
-          "state": "stable",
+          "state": "published",
           "description": "Handling forms and user input in React."
         },
         {
           "title": "React Router",
           "path": "instruction/react-router/react-router.md",
           "id": "72601171aa4c43f3991a05bb942e2462",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing routing in React applications."
         },
         {
           "title": "Redux for State Management",
           "path": "instruction/redux-for-state-management/redux-for-state-management.md",
           "id": "60d07165d1a949db8efd32279e9065ee",
-          "state": "stable",
+          "state": "published",
           "description": "Using Redux for managing application state in React. This includes examples of common patterns and pitfalls. A careful motivation of what problem is solved with Redux. There is also a discussion about how you would build your own state management system."
         },
         {
           "title": "Context API",
           "path": "instruction/context-api/context-api.md",
           "id": "92316748d86a46e9b58a87aeae836109",
-          "state": "stable",
+          "state": "published",
           "description": "Using the Context API for state management."
         },
         {
           "title": "Styled Components",
           "path": "instruction/styled-components/styled-components.md",
           "id": "0d4025fa9bb84cf4b999e3ef2a8bc53c",
-          "state": "stable",
+          "state": "published",
           "description": "Styling React components with styled-components."
         },
         {
           "title": "Material UI",
           "path": "instruction/material-ui/material-ui.md",
           "id": "6aa73de75ba6401399a66540b68ca893",
-          "state": "stable",
+          "state": "published",
           "description": "Using Material UI for pre-built React components."
         },
         {
           "title": "Testing React Components",
           "path": "instruction/testing-react-components/testing-react-components.md",
           "id": "011b4b4c39db44caa64227c9e5813c49",
-          "state": "stable",
+          "state": "published",
           "description": "Testing React components with Jest and Enzyme."
         },
         {
           "title": "React Performance Optimization",
           "path": "instruction/react-performance-optimization/react-performance-optimization.md",
           "id": "59f120db49d34defbe6c6a90f57d1f53",
-          "state": "stable",
+          "state": "published",
           "description": "Optimizing React applications for performance."
         },
         {
           "title": "Next.js Framework",
           "path": "instruction/next-js-framework/next-js-framework.md",
           "id": "2e36ee3e25834333b187924d65b299d3",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to the Next.js framework for server-side rendering and static site generation."
         }
       ]
@@ -285,42 +286,42 @@
           "title": "Vue.js Introduction and Template Syntax",
           "path": "instruction/vue-js-introduction-and-template-syntax/vue-js-introduction-and-template-syntax.md",
           "id": "69f1479166a5411b9905014c2b79c450",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to Vue.js and its template syntax."
         },
         {
           "title": "Vue Components",
           "path": "instruction/vue-components/vue-components.md",
           "id": "48b6e815e9724619a312c6eb43b84e88",
-          "state": "stable",
+          "state": "published",
           "description": "Creating and using Vue components."
         },
         {
           "title": "Props and Events",
           "path": "instruction/props-and-events/props-and-events.md",
           "id": "dde7eedbc7c54864bb7d15d14b75e932",
-          "state": "stable",
+          "state": "published",
           "description": "Passing data to components and emitting events."
         },
         {
           "title": "Vue's Reactivity System",
           "path": "instruction/vue-s-reactivity-system/vue-s-reactivity-system.md",
           "id": "9dec973848a14a6eb77cc129fe67808d",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding Vue's reactivity system and how it works."
         },
         {
           "title": "Computed Properties and Watchers",
           "path": "instruction/computed-properties-and-watchers/computed-properties-and-watchers.md",
           "id": "dc2153beb5c24ae9a1627d6040372df9",
-          "state": "stable",
+          "state": "published",
           "description": "Using computed properties and watchers in Vue."
         },
         {
           "title": "Conditional Rendering and List Rendering",
           "path": "instruction/conditional-rendering-and-list-rendering/conditional-rendering-and-list-rendering.md",
           "id": "023446a69605409dbb81a17a71cd5274",
-          "state": "stable",
+          "state": "published",
           "description": "Rendering content based on conditions and rendering lists of data."
         },
         {
@@ -334,63 +335,63 @@
           "title": "Vue Router",
           "path": "instruction/vue-router/vue-router.md",
           "id": "08114520f1b94bf49f3e8527d601f8bc",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing routing in Vue applications."
         },
         {
           "title": "Vuex for State Management",
           "path": "instruction/vuex-for-state-management/vuex-for-state-management.md",
           "id": "3cb98272ed2441c68a6bad492a5e9428",
-          "state": "stable",
+          "state": "published",
           "description": "Using Vuex for managing application state in Vue."
         },
         {
           "title": "Vue CLI",
           "path": "instruction/vue-cli/vue-cli.md",
           "id": "ff0f6826380548a88eba1175fd3cbf7a",
-          "state": "stable",
+          "state": "published",
           "description": "Using the Vue CLI for scaffolding Vue projects."
         },
         {
           "title": "Single-File Components",
           "path": "instruction/single-file-components/single-file-components.md",
           "id": "7adc18bb5f2e46439a0fb634fba21c2d",
-          "state": "stable",
+          "state": "published",
           "description": "Organizing Vue components in single-file components."
         },
         {
           "title": "Directives",
           "path": "instruction/directives/directives.md",
           "id": "b865b9e6bed64b3993df31d93802b00d",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding and using Vue directives."
         },
         {
           "title": "Filters",
           "path": "instruction/filters/filters.md",
           "id": "bf0b72b6f02149ec836f42bc98521ddc",
-          "state": "stable",
+          "state": "published",
           "description": "Formatting data with Vue filters."
         },
         {
           "title": "Testing Vue Components",
           "path": "instruction/testing-vue-components/testing-vue-components.md",
           "id": "cdcad6e1af684bad9871d2d5616629d9",
-          "state": "stable",
+          "state": "published",
           "description": "Testing Vue components with Jest and Vue Test Utils."
         },
         {
           "title": "Vue Performance Optimization",
           "path": "instruction/vue-performance-optimization/vue-performance-optimization.md",
           "id": "652192118d3247a7821f497cc384eb82",
-          "state": "stable",
+          "state": "published",
           "description": "Optimizing Vue applications for performance."
         },
         {
           "title": "Nuxt.js Framework",
           "path": "instruction/nuxt-js-framework/nuxt-js-framework.md",
           "id": "e5cdcacba4d84f569e03ad45c530b1f6",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to the Nuxt.js framework for server-side rendering and static site generation."
         }
       ]
@@ -402,14 +403,14 @@
           "title": "Svelte Introduction and Compiler Approach",
           "path": "instruction/svelte-introduction-and-compiler-approach/svelte-introduction-and-compiler-approach.md",
           "id": "ab7bd2b53b974e2494a80b36694ef569",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to Svelte and its compiler-based approach."
         },
         {
           "title": "Svelte Components",
           "path": "instruction/svelte-components/svelte-components.md",
           "id": "3d3050fde4ec485386f61ca2ac943c83",
-          "state": "stable",
+          "state": "published",
           "description": "Creating and using Svelte components.",
           "commit": "9976ebbe715db67fc91f6f6ce2118d075a1e9a80"
         },
@@ -424,14 +425,14 @@
           "title": "Svelte's Reactivity System",
           "path": "instruction/svelte-s-reactivity-system/svelte-s-reactivity-system.md",
           "id": "940b0ef36c46427497517591906d5cf4",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding Svelte's reactivity system and how it works."
         },
         {
           "title": "Computed Properties",
           "path": "instruction/computed-properties/computed-properties.md",
           "id": "9bff8d5369324705ba671135bd195754",
-          "state": "stable",
+          "state": "published",
           "description": "Using computed properties in Svelte."
         },
         {
@@ -452,35 +453,35 @@
           "title": "Svelte Router",
           "path": "instruction/svelte-router/svelte-router.md",
           "id": "030cceea7fe0473196dc2776d60a320f",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing routing in Svelte applications."
         },
         {
           "title": "Svelte Stores for State Management",
           "path": "instruction/svelte-stores-for-state-management/svelte-stores-for-state-management.md",
           "id": "3aceeec4e3c749ea910fb604670e9fbb",
-          "state": "stable",
+          "state": "published",
           "description": "Using Svelte stores for managing application state."
         },
         {
           "title": "SvelteKit",
           "path": "instruction/svelte-kit/svelte-kit.md",
           "id": "93cea258dbae45f0a0d822a3b121152f",
-          "state": "stable",
+          "state": "published",
           "description": "Introduction to SvelteKit framework."
         },
         {
           "title": "Transitions and Animations",
           "path": "instruction/transitions-and-animations/transitions-and-animations.md",
           "id": "075d015981f940d0b92394d3ca242097",
-          "state": "stable",
+          "state": "published",
           "description": "Adding transitions and animations to Svelte components."
         },
         {
           "title": "Actions",
           "path": "instruction/actions/actions.md",
           "id": "05779b1e1d9841ea810870ee8ce1b117",
-          "state": "stable",
+          "state": "published",
           "description": "Using actions in Svelte."
         },
         {
@@ -494,21 +495,21 @@
           "title": "Testing Svelte Components",
           "path": "instruction/testing-svelte-components/testing-svelte-components.md",
           "id": "49f739e8bc92457b951af24686fe2900",
-          "state": "stable",
+          "state": "published",
           "description": "Testing Svelte components with Jest and Svelte Testing Library."
         },
         {
           "title": "Svelte Performance Optimization",
           "path": "instruction/svelte-performance-optimization/svelte-performance-optimization.md",
           "id": "5dc0bb0804144ff6b9e70b4baea8c3c2",
-          "state": "stable",
+          "state": "published",
           "description": "Optimizing Svelte applications for performance."
         },
         {
           "title": "Serverless Functions with SvelteKit",
           "path": "instruction/serverless-functions-with-svelte-kit/serverless-functions-with-svelte-kit.md",
           "id": "7373c573a5064115ba81047b137f0c8f",
-          "state": "stable",
+          "state": "published",
           "description": "Using serverless functions with SvelteKit."
         }
       ]
@@ -520,112 +521,112 @@
           "title": "Framework Architecture and Design",
           "path": "instruction/framework-architecture-and-design/framework-architecture-and-design.md",
           "id": "629de3c73a084abb9e6a4fad219ba28e",
-          "state": "stable",
+          "state": "published",
           "description": "Designing the architecture of a custom web framework."
         },
         {
           "title": "DOM Manipulation",
           "path": "instruction/dom-manipulation/dom-manipulation.md",
           "id": "9690870335ed4670848f6a476faf2f0b",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing DOM manipulation functions."
         },
         {
           "title": "Component Rendering",
           "path": "instruction/component-rendering/component-rendering.md",
           "id": "98a7127209b34335bb6aec0b71d01080",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing component rendering logic."
         },
         {
           "title": "Virtual DOM Implementation",
           "path": "instruction/virtual-dom-implementation/virtual-dom-implementation.md",
           "id": "3447250c12524b4ca477222b409189d1",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing a virtual DOM for efficient updates."
         },
         {
           "title": "State Management",
           "path": "instruction/state-management/state-management.md",
           "id": "2b32f6856ea143c69ee28973c7162ea8",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing a state management system."
         },
         {
           "title": "Reactivity System",
           "path": "instruction/reactivity-system/reactivity-system.md",
           "id": "478837c5d7fd4e2d9dc6254f1509070c",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing a reactivity system for automatic updates."
         },
         {
           "title": "Event Handling",
           "path": "instruction/event-handling/event-handling.md",
           "id": "f2d6c1213d5a42539288550728b6d3e8",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing event handling mechanisms."
         },
         {
           "title": "Routing Implementation",
           "path": "instruction/routing-implementation/routing-implementation.md",
           "id": "c5ae3a125d0d42a5a8953048b35f8170",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing routing and navigation for the application."
         },
         {
           "title": "Templating Engine",
           "path": "instruction/templating-engine/templating-engine.md",
           "id": "8f5c17ea59e844ee9db118bc2a1f975a",
-          "state": "stable",
+          "state": "published",
           "description": "Creating a templating engine for HTML generation."
         },
         {
           "title": "CSS Integration",
           "path": "instruction/css-integration/css-integration.md",
           "id": "d07669466ebd4ffcbebaf5c9c44ea089",
-          "state": "stable",
+          "state": "published",
           "description": "Integrating CSS into the framework."
         },
         {
           "title": "JavaScript Integration",
           "path": "instruction/javascript-integration/javascript-integration.md",
           "id": "3c5f5a493fbd45f786e834fb47e9ea83",
-          "state": "stable",
+          "state": "published",
           "description": "Integrating JavaScript into the framework."
         },
         {
           "title": "Build Process",
           "path": "instruction/build-process/build-process.md",
           "id": "0a06403813b547189a68d0ed42431825",
-          "state": "stable",
+          "state": "published",
           "description": "Creating a build process for the framework."
         },
         {
           "title": "Component Lifecycle",
           "path": "instruction/component-lifecycle/component-lifecycle.md",
           "id": "e7f7bee5fbea43148afdf7cf981fe04b",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing component lifecycle methods."
         },
         {
           "title": "Data Binding",
           "path": "instruction/data-binding/data-binding.md",
           "id": "3e316adcc18841c5852cfb903b157bcb",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing data binding mechanisms."
         },
         {
           "title": "Testing Framework Components",
           "path": "instruction/testing-framework-components/testing-framework-components.md",
           "id": "0ff76e69381a487e9a852daf268479de",
-          "state": "stable",
+          "state": "published",
           "description": "Testing custom framework components."
         },
         {
           "title": "Framework Documentation",
           "path": "instruction/framework-documentation/framework-documentation.md",
           "id": "5739d315ed0f4b5f8c49b5a0674bd058",
-          "state": "stable",
+          "state": "published",
           "description": "Documenting the framework for users."
         }
       ]
@@ -637,28 +638,28 @@
           "title": "Project Definition and Scope",
           "path": "instruction/project-definition-and-scope/project-definition-and-scope.md",
           "id": "56e4eb6151b44ef48a85ef7f3d0ebff9",
-          "state": "stable",
+          "state": "published",
           "description": "Defining the project scope and objectives."
         },
         {
           "title": "Application Architecture Design",
           "path": "instruction/application-architecture-design/application-architecture-design.md",
           "id": "8919439ad47f47448d17f82a42ee7d60",
-          "state": "stable",
+          "state": "published",
           "description": "Designing the architecture of the web application."
         },
         {
           "title": "Component Design and Implementation",
           "path": "instruction/component-design-and-implementation/component-design-and-implementation.md",
           "id": "649c67efb30144f8933d885402c4e1f0",
-          "state": "stable",
+          "state": "published",
           "description": "Designing and implementing components for the application."
         },
         {
           "title": "State Management Implementation",
           "path": "instruction/state-management-implementation/state-management-implementation.md",
           "id": "6a97bf6d0a984f05b01608e1bea34779",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing state management for the application."
         },
         {
@@ -672,77 +673,77 @@
           "title": "User Interface (UI) Design",
           "path": "instruction/user-interface-ui-design/user-interface-ui-design.md",
           "id": "076ff1615f844f0c87463157b17316bb",
-          "state": "stable",
+          "state": "published",
           "description": "Designing the user interface of the application."
         },
         {
           "title": "Data Fetching and API Integration",
           "path": "instruction/data-fetching-and-api-integration/data-fetching-and-api-integration.md",
           "id": "517baeb785c340ddad9a691fe6220abc",
-          "state": "stable",
+          "state": "published",
           "description": "Fetching data from APIs and integrating them into the application."
         },
         {
           "title": "User Authentication and Authorization",
           "path": "instruction/user-authentication-and-authorization/user-authentication-and-authorization.md",
           "id": "4e3476a310cf46089a71d41e80ffba0d",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing user authentication and authorization."
         },
         {
           "title": "Form Validation",
           "path": "instruction/form-validation/form-validation.md",
           "id": "f3724640d6634be0b4f98cb54162eb13",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing form validation for user input."
         },
         {
           "title": "Error Handling",
           "path": "instruction/error-handling/error-handling.md",
           "id": "a2d518c174a244b2907bbeb605f92e49",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing error handling mechanisms."
         },
         {
           "title": "Performance Optimization",
           "path": "instruction/performance-optimization/performance-optimization.md",
           "id": "57de117d05e8478d9618c50c9607b3c0",
-          "state": "stable",
+          "state": "published",
           "description": "Optimizing the application for performance."
         },
         {
           "title": "Accessibility Implementation",
           "path": "instruction/accessibility-implementation/accessibility-implementation.md",
           "id": "8d15602e53274d4c94caa14b988792d4",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing accessibility features."
         },
         {
           "title": "Security Implementation",
           "path": "instruction/security-implementation/security-implementation.md",
           "id": "26f88c2363d541ab9aafdf94fa07c52a",
-          "state": "stable",
+          "state": "published",
           "description": "Implementing security measures."
         },
         {
           "title": "Testing and Debugging",
           "path": "instruction/testing-and-debugging/testing-and-debugging.md",
           "id": "e2bc50399c0445b5afcfd60e16058598",
-          "state": "stable",
+          "state": "published",
           "description": "Testing and debugging the application."
         },
         {
           "title": "Deployment",
           "path": "instruction/deployment/deployment.md",
           "id": "6810e11ba3974c3eb7819120d6fbcefc",
-          "state": "stable",
+          "state": "published",
           "description": "Deploying the application to a production environment."
         },
         {
           "title": "Project Documentation",
           "path": "instruction/project-documentation/project-documentation.md",
           "id": "06a6c1cd17d44666bfe255f76a757479",
-          "state": "stable",
+          "state": "published",
           "description": "Documenting the project and its implementation."
         }
       ]
