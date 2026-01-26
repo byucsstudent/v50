@@ -26,8 +26,9 @@
           "type": "instruction",
           "path": "instruction/link/link.md",
           "id": "f398c1ae-a3d3-460d-9afe-595d068201d3",
+          "interactions": [],
           "description": "",
-          "commit": "c3d9e590a77c36cae2909852cc182ce72ab157ae"
+          "commit": "9331c463b3687c582e557e39fe012595a3b32415"
         },
         {
           "title": "Testing Strategies",
