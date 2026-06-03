@@ -51,15 +51,6 @@
           "commit": "858023b13c5be018d77bae519db25f8d16764f15"
         },
         {
-          "title": "quizzes",
-          "type": "instruction",
-          "path": "instruction/links/links.md",
-          "id": "0ba678d5801545849d38341833f46286",
-          "state": "published",
-          "description": "",
-          "commit": "a6f6b119ef042bdf1a9fe47525c5eebfe4bc85ba"
-        },
-        {
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
