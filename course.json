@@ -19,6 +19,7 @@
           "type": "quiz",
           "path": "instruction/software-engineering-principles/software-engineering-principles.md",
           "id": "ca4f5946ede84f81816c87d9becff2e5",
+          "state": "published",
           "commit": "405066fc83d59a26227605eafc57f3e6707ef6cb"
         },
         {
@@ -26,6 +27,7 @@
           "type": "instruction",
           "path": "instruction/link/link.md",
           "id": "f398c1ae-a3d3-460d-9afe-595d068201d3",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "9331c463b3687c582e557e39fe012595a3b32415"
@@ -33,6 +35,7 @@
         {
           "title": "Testing Strategies",
           "type": "project",
+          "points": 100,
           "path": "instruction/testing-strategies/testing-strategies.md",
           "id": "1898c005407d4957bab3d08c7f34685f",
           "state": "published",
@@ -43,21 +46,16 @@
           "type": "instruction",
           "path": "instruction/sandstone-arches/sandstone-arches.md",
           "id": "fa04d174fbd24058be8685d775a35ac0",
+          "state": "published",
           "description": "How do they form and everything sandstone",
           "commit": "858023b13c5be018d77bae519db25f8d16764f15"
-        },
-        {
-          "title": "cow",
-          "type": "instruction",
-          "path": "instruction/cow/cow.md",
-          "id": "6415a059d5524f5c8727599b69cb5a5a",
-          "commit": "02908aea0c6725800030f3c38582d211ca605df2"
         },
         {
           "title": "quizzes",
           "type": "instruction",
           "path": "instruction/links/links.md",
           "id": "0ba678d5801545849d38341833f46286",
+          "state": "published",
           "description": "",
           "commit": "a6f6b119ef042bdf1a9fe47525c5eebfe4bc85ba"
         },
@@ -152,6 +150,7 @@
           "type": "instruction",
           "path": "instruction/virtual-dom/virtual-dom.md",
           "id": "6b053e0780564ad684a5152650f5621d",
+          "state": "published",
           "commit": "25bb571f853c938b37d4d706aa4d54ba86ab8701"
         },
         {
@@ -159,6 +158,7 @@
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM?cb=1764357011636",
           "id": "840847fc-c1b8-49cf-82d0-74b22ebe27d8",
+          "state": "published",
           "description": ""
         }
       ]
@@ -757,6 +757,7 @@
           "type": "instruction",
           "path": "instruction/fibonacci/fibonacci.md",
           "id": "d854ed0c-4d78-496d-813f-0a7848e44bd7",
+          "state": "published",
           "description": "The history and applicability of the fibonacci sequence and algorithm. Include code examples in Javascript and a discussion of the inventor",
           "commit": "c7af745d062b66cb80a90af4cd59413259ff23e8"
         },
@@ -765,14 +766,17 @@
           "type": "instruction",
           "path": "instruction/fibonacci-exam/fibonacci-exam.md",
           "id": "b6495927-d2cb-4ede-b6d8-11ddfbdda676",
+          "state": "published",
           "description": "fibonacci sequence history and implementation using javascript. Test for understanding on how to handle unexpected numbers and the impact of using recursion",
           "commit": "05930432b415664f96bd6270f2dc8c72cb0049d3"
         },
         {
           "title": "Fibonacci exam",
           "type": "exam",
+          "points": 200,
           "path": "instruction/fibonacci-v3/fibonacci-v3.md",
           "id": "3bef4a84-8d17-4408-a318-ae44a66be0f8",
+          "state": "published",
           "description": "Implementing fibonacci using JavaScript. Demonstrate mastery of implementation, complexity, and optimization.",
           "commit": "32aac4b638fe842e7fc5e493e4fdfafb4182044f"
         }
