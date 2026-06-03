@@ -15,14 +15,6 @@
           "commit": "beedbfb4e825721eb56eb6fca92f9f4f10231f43"
         },
         {
-          "title": "Software engineering principles",
-          "type": "quiz",
-          "path": "instruction/software-engineering-principles/software-engineering-principles.md",
-          "id": "ca4f5946ede84f81816c87d9becff2e5",
-          "state": "published",
-          "commit": "405066fc83d59a26227605eafc57f3e6707ef6cb"
-        },
-        {
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
