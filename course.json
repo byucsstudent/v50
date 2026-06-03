@@ -33,15 +33,6 @@
           "commit": "9331c463b3687c582e557e39fe012595a3b32415"
         },
         {
-          "title": "Testing Strategies",
-          "type": "project",
-          "points": 100,
-          "path": "instruction/testing-strategies/testing-strategies.md",
-          "id": "1898c005407d4957bab3d08c7f34685f",
-          "state": "published",
-          "description": "Unit, integration, and end-to-end testing."
-        },
-        {
           "title": "The Document Object Model (DOM)",
           "path": "instruction/the-document-object-model-dom/the-document-object-model-dom.md",
           "id": "80eb8822e3584e7195e8b63b80f245bd",
